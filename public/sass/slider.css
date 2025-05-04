@@ -1,0 +1,77 @@
+.slide-content {
+    display: flex; /* Используем Flexbox для выравнивания */
+    margin: 5%; /* Убираем лишние отступы */
+    height: 400px;
+}
+
+.slide-content__paragraph {
+    flex-grow: 1;
+    max-width: 45%;
+    margin-right: 5%;
+    text-align: left;
+    line-height: 1.5;
+}
+
+.slide-content__wrapper {
+    width: 50%;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.slide-content__wrapper_image-1 {
+    background-image: url('../images/webp/tuman.webp');
+}
+
+.slide-content__wrapper_image-2 {
+    background-image: url('../images/webp/fishlachuga.webp');
+}
+
+.slide-content__wrapper_image-3 {
+    background-image: url('../images/webp/vedmina_shel.webp');
+}
+
+.slide-content__wrapper_image-4 {
+    background-image: url('../images/webp/SleepyBay.webp');
+}
+
+.slide-content__wrapper_image-5 {
+    /* background-image: url('../images/dreamOrNightmares.webp'); */
+}
+
+.slide-content__wrapper_image-6 {
+    background-image: url('../images/webp/torgsquare.webp');
+}
+
+@media (max-width: 1280px) {
+    .slide-content__wrapper {
+        max-width: 100%;
+        width: 95%; 
+        height: 500px;
+    }
+}
+@media (max-width: 768px) {
+    .slide-content {
+        flex-direction: column; 
+        height: auto; 
+
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .slide-content__paragraph {
+        max-width: 100%; 
+        width: 100%;
+        text-align: left;
+        margin-bottom: 5%;
+    }
+
+    .slide-content__wrapper {
+        max-width: 100%;
+        width: 95%; 
+        height: 500px;
+    }
+    p{
+        margin-right: 5%;
+    }
+}
