@@ -49,6 +49,7 @@
             </div>
         </div>
     </header>
+    <!--#include file="$page_path"-->
     <footer>
         <div class="footer-image">
             <div class="overlay1"></div>
