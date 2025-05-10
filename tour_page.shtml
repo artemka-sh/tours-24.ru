@@ -13,6 +13,7 @@
         rel="stylesheet">
     <!-- css  -->
     <link rel="stylesheet" href="/public/sass/style.css">
+    <link rel="stylesheet" href="/public/sass/tour.scss">
 </head>
 <body>
     <!-- header  -->
