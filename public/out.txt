@@ -1,0 +1,35 @@
+.
+├── images
+│   ├── banner.svg
+│   ├── logo
+│   │   ├── egypt.svg
+│   │   ├── sharm-logo.png
+│   │   └── sharm-voyage.png
+│   ├── places
+│   │   ├── banner_piramidy.jpg
+│   │   ├── petra.jpg
+│   │   ├── riff_footer.jpg
+│   │   ├── riff_footer.webp
+│   │   └── rif-v-egipte.jpg
+│   ├── preloadder
+│   │   └── loader.gif
+│   ├── screenshot.png
+│   ├── snowflake.svg
+│   └── tours
+│       ├── raskoshnayaprogulka.webp
+│       ├── safari.jpg
+│       └── yahta_beliy.webp
+├── js
+│   ├── main.js
+│   └── slider.js
+├── out.txt
+└── sass
+    ├── slider.css
+    ├── style.css
+    ├── style.css.map
+    ├── style.scss
+    ├── tour.css
+    ├── tour.css.map
+    └── tour.scss
+
+8 directories, 25 files
