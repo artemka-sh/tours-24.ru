@@ -1,6 +1,6 @@
 @charset "UTF-8";
 .ova-single-product-summary-left {
-  max-width: 800px;
+  max-width: 1000px;
   margin: 0 auto;
   background: #fff;
   padding: 20px;
@@ -62,6 +62,31 @@
 }
 .ova-single-product-summary-left img:first-child {
   opacity: 1;
+}
+
+@media (min-width: 868px) {
+  .ova-single-product-summary-left {
+    max-width: 1200px;
+    padding: 24px;
+  }
+  h2 {
+    font-size: 28.8px;
+    line-height: 1.4;
+  }
+  h3 {
+    font-size: 24px;
+    line-height: 1.4;
+  }
+  p {
+    font-size: 19.2px;
+    line-height: 1.6;
+  }
+  li {
+    font-size: 19.2px;
+  }
+  span {
+    font-size: 19.2px;
+  }
 }
 
 /*# sourceMappingURL=tour.css.map */
