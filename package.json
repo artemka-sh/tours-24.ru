@@ -4,17 +4,17 @@
     "description": "",
     "main": "main.js",
     "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1",
-      "dev": "vite --host",
-      "sass": "sass public/sass/style.scss public/sass/style.css --watch"
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "dev": "vite --host",
+        "sass": "sass public/sass/style.scss public/sass/style.css --watch"
     },
     "keywords": [],
     "author": "",
     "license": "ISC",
     "dependencies": {
-      "vite": "^3.0.4"
+        "vite": "^3.0.4"
     },
     "devDependencies": {
-      "sass": "^1.87.0"
+        "sass": "^1.89.0"
     }
-  }
+}

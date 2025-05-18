@@ -30,7 +30,7 @@
 .ova-single-product-summary-left li {
   padding: 8px 0;
   position: relative;
-  padding-left: 20px;
+  padding-left: 30px;
   color: #333;
 }
 .ova-single-product-summary-left li:before {
@@ -63,6 +63,14 @@
 .ova-single-product-summary-left img:first-child {
   opacity: 1;
 }
+.ova-single-product-summary-left .tour-included li:before {
+  content: "✔ ";
+  color: #27ae60;
+}
+.ova-single-product-summary-left .tour-excluded li:before {
+  content: "✖ ";
+  color: #c0392b;
+}
 
 @media (min-width: 868px) {
   .ova-single-product-summary-left {
@@ -74,18 +82,18 @@
     line-height: 1.4;
   }
   h3 {
-    font-size: 24px;
+    font-size: 26.4px;
     line-height: 1.4;
   }
   p {
-    font-size: 19.2px;
+    font-size: 21.6px;
     line-height: 1.6;
   }
   li {
-    font-size: 19.2px;
+    font-size: 21.6px;
   }
   span {
-    font-size: 19.2px;
+    font-size: 21.6px;
   }
 }
 

@@ -3,8 +3,8 @@ $scaling-factor: 1.2;
 $base-max-width: 1000px;    //дисплей с шириной 868 не успевает достигать размера 1000 в ширину чтоб увеличиться по этому это типо костыль
 $base-padding: 20px;
 $base-font-size-h2: 24px;
-$base-font-size-h3: 20px;
-$base-font-size-text: 16px;
+$base-font-size-h3: 22px;
+$base-font-size-text: 18px;
 
 .ova-single-product-summary-left {
     max-width: $base-max-width;
@@ -37,7 +37,7 @@ $base-font-size-text: 16px;
     li {
         padding: 8px 0;
         position: relative;
-        padding-left: 20px;
+        padding-left: 30px;
         color: #333;
     }
     li:before {
@@ -69,6 +69,20 @@ $base-font-size-text: 16px;
     }
     img:first-child {
         opacity: 1;
+    }
+
+    .tour-included {
+        li:before {
+            content: "✔ ";
+            color: #27ae60; 
+        }
+    }
+
+    .tour-excluded {
+        li:before {
+            content: "✖ ";
+            color: #c0392b; 
+        }
     }
 }
 
