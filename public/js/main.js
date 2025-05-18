@@ -15,4 +15,3 @@ loadder.style.display = "none";
 window.addEventListener("load",()=>{
     loadder.style.display = "none";
 });
-
