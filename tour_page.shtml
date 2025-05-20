@@ -23,17 +23,13 @@
     
     <!--#include file="header.html"-->
 
-    <div class="swiper" style="height: 400px; margin: 40px 0;">
+    <div class="swiper" style="margin: 40px 0;">
         <!-- Additional required wrapper -->
         <div id="gallery" class="swiper-wrapper">
             <!-- Slides -->
         </div>
         <!-- If we need pagination -->
         <div class="swiper-pagination"></div>
-
-        <!-- If we need navigation buttons -->
-        <div class="swiper-button-prev"></div>
-        <div class="swiper-button-next"></div>
 
         <!-- If we need scrollbar -->
         <div class="swiper-scrollbar"></div>
