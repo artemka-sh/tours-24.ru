@@ -1,0 +1,3323 @@
+<div class="ova-single-product-summary-left">
+ <div data-track="overview" data-v-2007c7c8="">
+  <section class="activity-overview" data-component="overview" data-v-2007c7c8="" data-v-5726f79d="" id="activity-overview">
+   <p class="activity-overview__content" data-test-id="activity-overview-content" data-v-5726f79d="">
+    Explore the Sinai Desert on an exciting dune Buggy Desert Safari  trip from Sharm el-Sheikh. Soak up local culture at a Bedouin village, enjoy a traditional cup of tea, and add an optional dinner and show.
+   </p>
+  </section>
+ </div>
+ <h3 data-track="key-details">
+  Description
+ </h3>
+ <ul>
+  <li>
+   Begin your adventure outside your hotel in Sharm el-Sheikh in an air-conditioned bus and head to a buggy station in the desert. Once at the dune buggy station, listen to a safety briefing and learn the basics of driving a dune buggy.
+  </li>
+  <li>
+   When you’re ready, hop on and enjoy a thrilling ride through the sand dunes in the Echo Mountains region of the desert. Stop in the Echo Sound region, also known as the Echo Temple, and enjoy the stunning sounds of the desert.
+  </li>
+  <li>
+   Next, head to an authentic Bedouin tent and relax with a traditional cup of tea and a warm welcome.
+  </li>
+  <li>
+   Depending on the option you select, enjoy a leisurely camel ride across the beautiful sand dunes as the sun sets over the horizon. Choose the dinner and show option to enjoy a delicious BBQ meal in a Bedouin tent.
+  </li>
+  <li>
+   As you eat, watch a sensuous Tanoura and belly dance performance, followed by a breathtaking fire show. Once the show ends, return by van to your hotel in Sharm el-Sheikh.
+  </li>
+ </ul>
+ <h3>
+  Departure time &amp; Return
+ </h3>
+ <ul>
+  <li>
+   This trip available 4 times a day at different times
+  </li>
+  <li>
+   At 04:00 am till 07:00 am
+  </li>
+  <li>
+   At 09:00 am till 12:00 am
+  </li>
+  <li class="toggle-content__label-placeholder">
+   At 14:00 pm till 17:00 pm
+  </li>
+  <li>
+   At 15:30 pm till 21:00 pm ( if you choose dinner and show)
+  </li>
+ </ul>
+ <div data-v-1740b522="">
+  <h3>
+   What to bring
+  </h3>
+  <p>
+   Sunglasses &amp; Comfortable clothes &amp; Scarf
+  </p>
+  <h3>
+   Tour price
+  </h3>
+  <ul>
+   <li>
+    2 seat Buggy 30€
+   </li>
+   <li>
+    4 seat Buggy 40€
+   </li>
+   <li>
+    Camel riding 5€ (10 minutes round)
+   </li>
+   <li>
+    Dinner and show 10€ per person
+   </li>
+   <li>
+    For private trip 15€€ total
+   </li>
+  </ul>
+  <h3>
+   Not suitable for
+  </h3>
+  <ul>
+   <li>
+    Pregnant woman
+   </li>
+  </ul>
+ </div>
+ <!--  Tour Included/Excluded -->
+ <div class="content-product-item tour-included-excluded-wrapper" id="tour-included-excluded">
+  <h2 class="heading-tour-included-excluded">
+   Included/Excluded
+  </h2>
+  <div class="tour-included-excluded-content">
+   <ul class="tour-included">
+    <li class="item-tour-included">
+     Transfer from your hotel
+    </li>
+    <li class="item-tour-included">
+     Tour guide
+    </li>
+    <li class="item-tour-included">
+     1-hour Buggy ride
+    </li>
+    <li class="item-tour-included">
+     Tea at Bedouin camp
+    </li>
+   </ul>
+   <ul class="tour-excluded">
+    <li class="item-tour-excluded">
+     Personal expenses
+    </li>
+    <li class="item-tour-excluded">
+     Photo services
+    </li>
+   </ul>
+  </div>
+ </div>
+ <!--  Tour Plan -->
+ <!--  Tour Map -->
+ <!--  Tour Review -->
+</div>
+
+
+<div class="ova-single-product-summary-left">
+ <h3>
+  Extreme Day Safari 6×1
+ </h3>
+ <p>
+  Extreme Day Safari 6×1 several exciting entertainments are in one excursion! Quad biking, buggy and camel riding,  Bedouin tea, Echo, lunch on the beach, parachute, banana boat.
+ </p>
+ <h3>
+  Description
+ </h3>
+ <ul>
+  <li>
+   Transfer from the hotel to the safari: around 8:30
+  </li>
+  <li>
+   ATV Quad bike 40 minutes. This is one of the most popular attractions in Sharm El Sheikh.Take amazing photos for memory, hear the Echo echoing you, visit the local residents Bedouins and taste real Bedouin tea.Adrenaline on a buggy safari 35 minutes.Camel ride 10 minutes.
+  </li>
+  <li>
+   You will experience a lot of adrenaline while riding a banana and parasailing.
+  </li>
+  <li>
+   Swimming from the sandy beach and lunch on the beach will be a great end to a day full of adventure and emotions!
+  </li>
+  <li>
+   Around 14:00, you will return to your hotel in Sharm el-Sheikh, with a lot of positive emotions, after a great day.
+  </li>
+ </ul>
+ <h3>
+  Departure time &amp; Return
+ </h3>
+ <p>
+  Pickup: Around 8:30 am (Depending on your hotel location in Sharm el sheikh).
+  <br/>
+  Drop Off: Around 14:00 Pm .
+  <br/>
+  Duration: 5 hours.
+  <br/>
+  Tour available every day.
+ </p>
+ <h3>
+  What to bring
+ </h3>
+ <p>
+  Towel &amp; swimming clothes &amp; camera &amp; snorkeling tools.
+ </p>
+ <h3>
+  Tour price Extreme Day Safari 6×1
+ </h3>
+ <p>
+  Single : 40€
+ </p>
+ <p>
+  Double : 65€
+ </p>
+ <h3>
+  Not suitable for
+ </h3>
+ <ul>
+  <li>
+   Pregnant woman
+  </li>
+ </ul>
+ <!--  Tour Included/Excluded -->
+ <div class="content-product-item tour-included-excluded-wrapper" id="tour-included-excluded">
+  <h2 class="heading-tour-included-excluded">
+   Included/Excluded
+  </h2>
+  <div class="tour-included-excluded-content">
+   <ul class="tour-included">
+    <li class="item-tour-included">
+     Transfer from your hotel
+    </li>
+    <li class="item-tour-included">
+     Tour guide
+    </li>
+    <li class="item-tour-included">
+     Camel riding
+    </li>
+    <li class="item-tour-included">
+     ATV Quad bike
+    </li>
+    <li class="item-tour-included">
+     Buggy
+    </li>
+    <li class="item-tour-included">
+     Banana Boat.
+    </li>
+    <li class="item-tour-included">
+     parasailing
+    </li>
+   </ul>
+   <ul class="tour-excluded">
+    <li class="item-tour-excluded">
+     Personal expenses
+    </li>
+    <li class="item-tour-excluded">
+     Photo services
+    </li>
+   </ul>
+  </div>
+ </div>
+ <!--  Tour Plan -->
+ <!--  Tour Map -->
+ <!--  Tour Review -->
+</div>
+
+
+<div class="ova-single-product-summary-left">
+ <p>
+  Spend a memorable time on the water of Sharm-El-Sheikh. Participate in various water sports including parasailing, sofa, banana boat ride.
+ </p>
+ <h3>
+  Description
+ </h3>
+ <p>
+  Start the tour with pickup from your hotel in Sharm-El-Sheikh. Begin your experience with banana boat ride(10-15 minutes ), Next sofa (10-15 minutes) and parasailing (round on the boat 15-20 minutes flying 5-7 minutes in the air). At the end of the tour, return back to your hotel in Sharm-El-Sheikh.
+ </p>
+ <h3>
+  Departure time &amp; Return
+ </h3>
+ <ul>
+  <li>
+   This trip available 3 times a day at different times
+  </li>
+  <li>
+   At 10:00 am till 12:00 pm
+  </li>
+  <li>
+   At 11:00 am till 13:00 pm
+  </li>
+  <li class="toggle-content__label-placeholder">
+   At 14:00 pm till 16:00 pm
+  </li>
+  <li class="toggle-content__label-placeholder">
+   Tour available every day.
+  </li>
+ </ul>
+ <h3>
+  What to bring
+ </h3>
+ <p>
+  Towel &amp; swimming clothes &amp; camera
+ </p>
+ <h3>
+  Tour price
+ </h3>
+ <ul>
+  <li>
+   Single parasailing  20€
+  </li>
+  <li>
+   Double parasailing 25€
+  </li>
+  <li>
+   Banana boat 20€  (max 4 person)
+  </li>
+  <li>
+   Sofa boat 20€     (max 2 person)
+  </li>
+ </ul>
+ <h3>
+  Not suitable for
+ </h3>
+ <ul>
+  <li>
+   Pregnant woman
+  </li>
+ </ul>
+ <!--  Tour Included/Excluded -->
+ <div class="content-product-item tour-included-excluded-wrapper" id="tour-included-excluded">
+  <h2 class="heading-tour-included-excluded">
+   Included/Excluded
+  </h2>
+  <div class="tour-included-excluded-content">
+   <ul class="tour-included">
+    <li class="item-tour-included">
+     Private transfer from your hotel
+    </li>
+   </ul>
+   <ul class="tour-excluded">
+    <li class="item-tour-excluded">
+     Personal expenses
+    </li>
+    <li class="item-tour-excluded">
+     Photo services
+    </li>
+   </ul>
+  </div>
+ </div>
+ <!--  Tour Plan -->
+ <!--  Tour Map -->
+ <!--  Tour Review -->
+</div>
+
+
+<div class="ova-single-product-summary-left">
+ <h3>
+  Overview
+ </h3>
+ <p>
+  <span id="more-9531">
+  </span>
+ </p>
+ <p>
+  Discover Ras Mohammed National Park on a half day trip from Sharm el-Sheikh. See Gate of God and the beautiful Mangrove trees, and swim in the clear waters of Magic Lake.
+ </p>
+ <h3>
+  Description
+ </h3>
+ <div class="toggle-content__content toggle-content__content--expanded toggle-content__content--packable" data-v-1740b522="">
+  <div data-test-id="activity-full-description-text" data-v-579d949a="">
+   <ul>
+    <li>
+     Begin your fantastic day with a hotel pickup in Sharm el-Sheikh and enjoy the way drive to Ras Mohamed National Park. After entering the park, stop at the Gate of God, the original gateway to the park.
+    </li>
+    <li>
+     Next, head to the Suez Gulf for a swimming and snorkeling break and immerse yourself in the wonderful underwater world filled with colorful fish and coral reefs.
+    </li>
+    <li>
+     Continue your adventure through Mangrove trees sprouting from the Red Sea’s salinity-rich water. Stop at Magic Lake for a swim.
+    </li>
+    <li>
+     Enjoy the panoramic views of the sky, mountains, and sand. Return to your van and continue to Aqaba Gulf, passing by a massive earthquake crack from thousands of years ago.
+    </li>
+    <li>
+     Climb a cliff for a panoramic view of the park and snap a perfect photo before returning to your hotel.
+    </li>
+   </ul>
+   <h3>
+    Departure time &amp; Return
+   </h3>
+   <p>
+    Pickup: Around 8:30 am (Depending on your hotel location in Sharm el sheikh).
+    <br/>
+    Drop Off: Around 14:00 Pm .
+    <br/>
+    Duration: 5 hours.
+    <br/>
+    Tour available every day.
+   </p>
+   <h3>
+    What to bring
+   </h3>
+   <p>
+    Towel &amp; swimming clothes &amp; camera &amp; snorkeling tools.
+   </p>
+   <h3>
+    Tour price
+   </h3>
+   <p style="padding-left: 40px;">
+    Adult  : 20€ per person.
+    <br/>
+    Child  : from 6 years to 10 years: 10€
+    <br/>
+    Infant : Under 6 years old are Free of charge.
+   </p>
+   <h3 class="activity-important-information__title">
+    Know before you go
+   </h3>
+   <ul class="activity-important-information__list good-to-know" data-v-1bea4dbd="">
+    <li data-v-1bea4dbd="">
+     You can have a private trip and guide for extra charge.
+    </li>
+   </ul>
+   <p>
+   </p>
+  </div>
+ </div>
+ <!--  Tour Included/Excluded -->
+ <div class="content-product-item tour-included-excluded-wrapper" id="tour-included-excluded">
+  <h2 class="heading-tour-included-excluded">
+   Included/Excluded
+  </h2>
+  <div class="tour-included-excluded-content">
+   <ul class="tour-included">
+    <li class="item-tour-included">
+     Transfer from your hotel
+    </li>
+    <li class="item-tour-included">
+     Entrance fees
+    </li>
+    <li class="item-tour-included">
+     Tour guide
+    </li>
+   </ul>
+   <ul class="tour-excluded">
+    <li class="item-tour-excluded">
+     Snorkeling tools
+    </li>
+    <li class="item-tour-excluded">
+     Food &amp; Drinks
+    </li>
+   </ul>
+  </div>
+ </div>
+ <!--  Tour Plan -->
+ <!--  Tour Map -->
+ <!--  Tour Review -->
+</div>
+
+
+<div class="ova-single-product-summary-left">
+ <div data-track="overview" data-v-da143f0b="">
+  <section class="activity-overview" data-component="overview" data-v-5726f79d="" data-v-da143f0b="" id="activity-overview">
+   <p class="activity-overview__content" data-test-id="activity-overview-content" data-v-5726f79d="">
+    See the main sights of Cairo By Bus Pyramids Giza and Egyptian Museum Day Trip from Sharm El Sheikh with lunch included. Visit the Pyramids of Giza and the Sphinx, and explore the Egyptian Museum with an expert guide.
+   </p>
+  </section>
+ </div>
+ <h3 data-track="key-details">
+  Description
+ </h3>
+ <ul>
+  <li>
+   Take a day trip to Cairo from Sharm El Sheikh by a comfortable air-conditioned coach. Visit key sites like the Pyramids and the Sphinx on the Giza plateau, and the Museum of Egyptian Antiquities on Tahrir Square. Learn about the ancient Egyptian artifacts from an expert guide as you go.
+  </li>
+  <li>
+   Get picked up from your hotel in Sharm El Sheikh for a trip to Cairo. Upon arrival, a guide takes you to the Museum of Egyptian Antiquities in Tahrir Square.
+  </li>
+  <li>
+   Discover a huge collection of artifacts from Ancient Egypt, including statues, sarcophagi, and precious jewels. Encounter the treasures of Pharaonic Egypt, such as the 6 gilded King Tutankhamun coffins, with your guide’s help.
+  </li>
+  <li>
+   You will have some time here to take an optional boat trip on the Nile, before stopping to enjoy a delicious buffet lunch of typical Egyptian cuisine on the banks of the river. After your meal, drive out to the Giza plateau.
+  </li>
+  <li>
+   Explore the Pyramids on the Giza plateau, one of the wonders of the ancient world built more than 4,500 years ago as a monument to the pharaohs Cheops, Chephren, and Mykerinos. Gaze at the face of the mysterious Sphinx, and hear about the solar boat that Cheops built to sail through the underworld.  Optionally, you can choose to use some of your time here to explore the Great Pyramid or take a ride on a horse or camel around the site. End the day back in Cairo and stop at the bazaar for some shopping, then drive back to your hotel in Sharm El Sheikh.
+  </li>
+ </ul>
+ <h3>
+  Departure time &amp; Return
+ </h3>
+ <p>
+  Pickup: Around 00:00 am (Depending on your hotel location in Sharm el sheikh).
+  <br/>
+  Drop Off: Around 2:30 am .
+  <br/>
+  Duration: 1 day.
+  <br/>
+  Tour available every day.
+ </p>
+ <h3 class="activity-important-information__title">
+  What to bring
+ </h3>
+ <section class="toggle-content" data-v-1740b522="" data-v-1bea4dbd="">
+  <div class="toggle-content__content" data-v-1740b522="">
+   <p>
+    Your Passport &amp; comfortable clothes &amp; lunch box
+   </p>
+   <div class="activity-important-information__content" data-v-1bea4dbd="">
+   </div>
+  </div>
+  <div data-v-1740b522="">
+   <h3>
+    Tour price
+   </h3>
+   <p>
+    Adult  : 50€ per person.
+    <br/>
+    Child  : from 6 years to 10 years: 45€
+    <br/>
+    Infant : Under 6 years old are Free of charge.
+   </p>
+   <h3 class="activity-important-information__title">
+    Know before you go
+   </h3>
+   <h6 class="activity-important-information__title">
+    A visa is necessary for visiting Cairo
+   </h6>
+   <h3>
+    How to book
+   </h3>
+   <p>
+    By sending a message with your details ( tour name &amp; hotel name &amp; room number &amp; tour date )
+   </p>
+   <h5>
+    you can sand a message via WhatsApp +201066535255
+   </h5>
+  </div>
+ </section>
+ <!--  Tour Included/Excluded -->
+ <div class="content-product-item tour-included-excluded-wrapper" id="tour-included-excluded">
+  <h2 class="heading-tour-included-excluded">
+   Included/Excluded
+  </h2>
+  <div class="tour-included-excluded-content">
+   <ul class="tour-included">
+    <li class="item-tour-included">
+     Transfer from your hotel
+    </li>
+    <li class="item-tour-included">
+     Entrance fees
+    </li>
+    <li class="item-tour-included">
+     Tour guide
+    </li>
+    <li class="item-tour-included">
+     Egyptian Museum tour
+    </li>
+    <li class="item-tour-included">
+     Pyramids and Sphinx visit
+    </li>
+    <li class="item-tour-included">
+     Lunch
+    </li>
+    <li class="item-tour-included">
+     Shopping in Cairo
+    </li>
+   </ul>
+   <ul class="tour-excluded">
+    <li class="item-tour-excluded">
+     Drinks
+    </li>
+    <li class="item-tour-excluded">
+     Personal expenses
+    </li>
+   </ul>
+  </div>
+ </div>
+ <!--  Tour Plan -->
+ <!--  Tour Map -->
+ <!--  Tour Review -->
+</div>
+
+
+<div class="ova-single-product-summary-left">
+ <p>
+  Enjoy a day boat around Tiran Island and explore beautiful underwater life. W’ll stop at 3 different snorkeling with spots amazing colorful coral reefs. Enjoy open buffet lunch and soft drinks on the boat.
+ </p>
+ <h3>
+  Description
+ </h3>
+ <ul>
+  <li>
+   We will pickup you from your hotel, transfer to the yacht marina in an air-conditioned bus. Board the boat and relax on board, enjoying stunning views of the Red Sea
+  </li>
+  <li>
+   We start sail to Tiran Island. It takes around an hour to reach Tiran island and if you are lucky you might see dolphins on the way.
+  </li>
+  <li>
+   Then, . W’ll stop at 3 different snorkeling stops in Tiran Island surrounded by fantastic coral reefs, where you can snorkel along the corals, and see hundreds of fish.
+  </li>
+  <li>
+   Have a delicious open buffet lunch with magnificent views, after that snorkeling tour is ending, you will move to the marina and back to your hotel.
+  </li>
+ </ul>
+ <h3 data-track="key-details">
+  Departure time &amp; Return
+ </h3>
+ <div data-track="key-details" data-v-ccfeac8c="">
+  <p>
+   Pickup: Around 08:00 (Depending on your hotel location in Sharm el sheikh).
+   <br/>
+   Drop Off: Around 17:00 Pm .
+   <br/>
+   Duration: 8 hours.
+   <br/>
+   Tour available Everyday
+  </p>
+ </div>
+ <h3>
+  <span style="font-size: 16px;">
+   Tour price
+  </span>
+ </h3>
+ <ul>
+  <li>
+   Adult  : 25€ per person.
+  </li>
+  <li>
+   Child  : from 5 years to 10 years: 15€
+  </li>
+  <li>
+   Infant : Under 5 years old are Free of charge.
+  </li>
+  <li>
+   You can add intro dive 10€
+  </li>
+ </ul>
+ <h3>
+  What to bring
+ </h3>
+ <p>
+  Towels &amp; swimming clothes &amp; sun cream &amp; copy of your passport
+ </p>
+ <h3>
+  How to book
+ </h3>
+ <p>
+  By sending a message with your details ( tour name &amp; hotel name &amp; room number &amp; tour date )
+ </p>
+ <h5>
+  you can sand a message via WhatsApp +201066535255
+ </h5>
+ <ol>
+  <li>
+   You tube: https://youtu.be/GCHkKdq3FYQ?si=AV731WrxMl4_OitF
+  </li>
+ </ol>
+ <!--  Tour Included/Excluded -->
+ <div class="content-product-item tour-included-excluded-wrapper" id="tour-included-excluded">
+  <h2 class="heading-tour-included-excluded">
+   Included/Excluded
+  </h2>
+  <div class="tour-included-excluded-content">
+   <ul class="tour-included">
+    <li class="item-tour-included">
+     Transfer from your hotel
+    </li>
+    <li class="item-tour-included">
+     Tour guide
+    </li>
+    <li class="item-tour-included">
+     Lunch &amp; soft drinks
+    </li>
+    <li class="item-tour-included">
+     National Park fees
+    </li>
+   </ul>
+   <ul class="tour-excluded">
+    <li class="item-tour-excluded">
+     Snorkeling equipment ( mask2$, life jacket 3$)
+    </li>
+    <li class="item-tour-excluded">
+     Introduction dive 10€
+    </li>
+    <li class="item-tour-excluded">
+     Photo services
+    </li>
+   </ul>
+  </div>
+ </div>
+ <!--  Tour Plan -->
+ <!--  Tour Map -->
+ <!--  Tour Review -->
+</div>
+
+
+<div class="ova-single-product-summary-left">
+ <div data-track="overview" data-v-ccfeac8c="">
+  <section class="activity-overview" data-component="overview" data-v-5726f79d="" data-v-ccfeac8c="" id="activity-overview">
+   <p class="activity-overview__content" data-test-id="activity-overview-content" data-v-5726f79d="">
+    Take a day tour from Sharm El Shiekh to the famous Colored Canyon, Blue Hole, Jeep Safari and Dahab. Marvel at colorful rock formations, snorkel over coral reefs, and enjoy a buffet lunch beside the sea.
+   </p>
+  </section>
+ </div>
+ <h3 data-track="key-details">
+  Description
+ </h3>
+ <ul>
+  <li data-track="key-details">
+   We will pick up you from your hotel in Sharm El Sheikh with air-conditioned bus and head to Dahab City for around 80km journey. Dahab is fortunate to be home to several national parks that preserve and protect the region’s natural treasures.
+  </li>
+  <li data-track="key-details">
+   Visit the National Park of Blue Hole, relax on the beach, and enjoy an amazing experience of snorkeling and swimming on a unique and attractive coral reef spot. Watch the underwater wonderland and meet hundreds of colorful species of fish.
+  </li>
+  <li data-track="key-details">
+   Come back to the beach camp and have your delicious barbeque lunch while watching the panoramic views of the sea and mountains. Take a sea breath, hop on a camel along the coast, and shoot remarkable photos.
+  </li>
+  <li data-track="key-details">
+   This stop is optional: Move to the next adventure and ride a quad bike along the sea of Dahab. After boosting adrenaline with the camp activities get ready to start your next adventure.
+  </li>
+  <li data-track="key-details">
+   Travel by jeep to the famous Canyon. Explore a vibrant labyrinth of sandstone cliffs in shades of yellow, purple, red, and gold while walking through the 800-meter gorge.
+  </li>
+  <li data-track="key-details">
+   Then moving to the shopping center near Dahab city before coming back to Sharm El Sheikh.
+  </li>
+ </ul>
+ <div data-track="key-details" data-v-ccfeac8c="">
+ </div>
+ <h3 data-track="key-details">
+  Departure time &amp; Return
+ </h3>
+ <div data-track="key-details" data-v-ccfeac8c="">
+  <p>
+   Pickup: Around 08:00 (Depending on your hotel location in Sharm el sheikh).
+   <br/>
+   Drop Off: Around 17:00 Pm .
+   <br/>
+   Duration: 8 hours.
+   <br/>
+   Tour available Everyday
+  </p>
+  <h3>
+   What to bring
+  </h3>
+  <p>
+   Towel &amp; Comfortable shoes &amp; Lunch box &amp; Sunglasses &amp; Scarf &amp; Snorkleing tools
+  </p>
+  <h3>
+   Tour price
+  </h3>
+  <p>
+   Adult  : 30€ per person.
+   <br/>
+   Child  : from 5 years to 10 years: 15€
+   <br/>
+   Infant : Under 5 years old are Free of charge
+  </p>
+  <h3>
+   Notice
+  </h3>
+  <p>
+   For the Blue Hole entrace fees 10$ Optional
+  </p>
+  <p>
+  </p>
+ </div>
+ <!--  Tour Included/Excluded -->
+ <div class="content-product-item tour-included-excluded-wrapper" id="tour-included-excluded">
+  <h2 class="heading-tour-included-excluded">
+   Included/Excluded
+  </h2>
+  <div class="tour-included-excluded-content">
+   <ul class="tour-included">
+    <li class="item-tour-included">
+     Transfer from your hotel
+    </li>
+    <li class="item-tour-included">
+     Tour guide
+    </li>
+    <li class="item-tour-included">
+     Camel riding
+    </li>
+    <li class="item-tour-included">
+     ATV Quad bike
+    </li>
+    <li class="item-tour-included">
+     Lunch
+    </li>
+   </ul>
+   <ul class="tour-excluded">
+    <li class="item-tour-excluded">
+     Snorkeling tools
+    </li>
+    <li class="item-tour-excluded">
+     Optional Blue Hole fees 10$
+    </li>
+    <li class="item-tour-excluded">
+     Drinks
+    </li>
+    <li class="item-tour-excluded">
+     Photo services
+    </li>
+   </ul>
+  </div>
+ </div>
+ <!--  Tour Plan -->
+ <!--  Tour Map -->
+ <!--  Tour Review -->
+</div>
+
+
+<div class="ova-single-product-summary-left">
+ <p>
+  A fantastic opportunity to explore Cairo and Alexandria’s best monuments. Visit Egyptian Museum of Antiquities, Great Pyramid and Sphinx before heading north to Alexandria to explore Alexandria’s best sights. Visit Alexandria Pompey Pillar , Catacombs of kom el shokafa, Fort qitbay, Alexandria bibliotheca &amp; Abo el abbas mosque from out side.
+ </p>
+ <h3>
+  Description
+ </h3>
+ <ul>
+  <li>
+   <h4>
+    The first day:
+   </h4>
+  </li>
+  <li>
+   We’ll pick you up from your hotel in Sharm El Sheikh from 23:45 to 00:45 (according to your hotel location) and drive to Cairo (about 6 hours) in a large air-conditioned coach. Upon arrival, you will be met by our knowledgeable and friendly tour-guide who will join you during your day tour in Cairo.
+  </li>
+  <li>
+   We’ll start the tour of Cairo at the world-famous Egyptian Museum. Inside this huge museum you’ll find more than 120,000 of the most important treasures from Ancient Egypt civilization like treasures found in the tomb of Egypt’s most famous King Tutankhamen. You can also visit the mummies room at the Egyptian Museum for a background about the Egyptian civilization and the mummification art in ancient Egypt.
+  </li>
+  <li>
+   After lunch, you will be driven to The oldest of the seven wonders of the ancient world and sadly the only one that still remains largely intact, the Pyramids of Giza are the very reason a lot of people come to Egypt, and seeing them close-up never disappoints. After you have seen the pyramids of Cairo, your next stop will be the Sphinx. The Great Sphinx of Giza is a mythological creature, formed of a lion’s body and a human head.
+  </li>
+  <li>
+   After a fantastic day seeing Cairo’s most impressive sights you’ll go back to your comfortable 4 star hotel in Cairo for the night.
+  </li>
+  <li>
+   <h4>
+    The second day:
+   </h4>
+  </li>
+  <li>
+   Your tour guide will pick you up from your Cairo hotel after breakfast at 7 am and check out, then drive to Alexandria for about 3 hours.
+  </li>
+  <li>
+   Visit Pompey Pillar (or Montazah), Fort qitbay, Alexandria bibliotheca &amp; Abo el abbas mosque from out side.
+  </li>
+  <li>
+   After seeing the sights of Alexandria we go to the city centre for lunch.
+  </li>
+  <li>
+   After a delicious lunch you’ll Drive back to your hotel in Sharm el Sheikh.
+  </li>
+ </ul>
+ <h3>
+  Departure time &amp; Return
+ </h3>
+ <p>
+  Pickup: Around 00:00 am (Depending on your hotel location in Sharm el sheikh).
+  <br/>
+  Drop Off: Around 2:00 am .
+  <br/>
+  Duration: 2 Days
+  <br/>
+  Tour available every day.
+ </p>
+ <h3 class="activity-important-information__title">
+  What to bring
+ </h3>
+ <section class="toggle-content" data-v-1740b522="" data-v-1bea4dbd="">
+  <div class="toggle-content__content" data-v-1740b522="">
+   Your Passport &amp; comfortable clothes &amp; lunch box
+  </div>
+ </section>
+ <h3>
+  Tour price
+ </h3>
+ <p>
+  Adult  : 150€ per person.
+  <br/>
+  Child  : from 5 years to 10 years: 140€
+  <br/>
+  Infant : Under 5 years old are Free of charge.
+ </p>
+ <h3 class="activity-important-information__title">
+  Know before you go
+ </h3>
+ <section class="toggle-content" data-v-1740b522="" data-v-1bea4dbd="">
+  <div class="toggle-content__content" data-v-1740b522="">
+   <ul class="activity-important-information__list good-to-know" data-v-1bea4dbd="">
+    <li class="activity-important-information__item" data-v-1bea4dbd="">
+     A visa is necessary for visiting Cairo and Alexandria.
+    </li>
+    <li data-v-1bea4dbd="">
+     You can have a private trip in Cairo for extra charge.
+    </li>
+   </ul>
+  </div>
+ </section>
+ <!--  Tour Included/Excluded -->
+ <div class="content-product-item tour-included-excluded-wrapper" id="tour-included-excluded">
+  <h2 class="heading-tour-included-excluded">
+   Included/Excluded
+  </h2>
+  <div class="tour-included-excluded-content">
+   <ul class="tour-included">
+    <li class="item-tour-included">
+     Transfer from your hotel
+    </li>
+    <li class="item-tour-included">
+     Tour guide
+    </li>
+    <li class="item-tour-included">
+     Entrance fees
+    </li>
+    <li class="item-tour-included">
+     Lunch
+    </li>
+    <li class="item-tour-included">
+     1 night Hotel accommodation
+    </li>
+   </ul>
+   <ul class="tour-excluded">
+    <li class="item-tour-excluded">
+     Personal expenses
+    </li>
+    <li class="item-tour-excluded">
+     drinks
+    </li>
+    <li class="item-tour-excluded">
+     Optional 20-minute cruise in the Nile15$
+    </li>
+   </ul>
+  </div>
+ </div>
+ <!--  Tour Plan -->
+ <!--  Tour Map -->
+ <!--  Tour Review -->
+</div>
+
+
+<div class="ova-single-product-summary-left">
+ <div data-track="overview" data-v-2007c7c8="">
+  <section class="activity-overview" data-component="overview" data-v-2007c7c8="" data-v-5726f79d="" id="activity-overview">
+   <p class="activity-overview__content" data-test-id="activity-overview-content" data-v-5726f79d="" style="text-align: right;">
+    Luxor by Plane from Sharm El Sheikh, Fly from Sharm El Sheikh to Luxor on this day trip with lunch. Follow your guide on a tour of the Karnak Temple complex, the Theban Necropolis, the Valley of the Kings, and the Memnon Colossi.
+   </p>
+  </section>
+ </div>
+ <h3 data-track="key-details">
+  Description
+ </h3>
+ <div data-track="key-details" data-v-2007c7c8="">
+  <ul>
+   <li>
+    After pickup from your hotel in a private and air-conditioned vehicle, transfer to the airport to board your plane to Luxor. Once you arrive, head to the Karnak Temple complex.
+   </li>
+   <li>
+    See the street of the Sphinxes, the hypostyle hallway with 134 gigantic pillars, and the obelisks of Queen Hatshepsut and Tutomosis I. Continue to the Theban Necropolis on the west bank of the Nile to see where the pharaohs were laid to rest.
+   </li>
+   <li>
+    Stroll through the Valley of the Kings where you can visit tombs from 3 different dynasties. Admire a masterpiece of ancient architecture at the Mortuary Temple of Hatshepsut.
+   </li>
+  </ul>
+  <div class="toggle-content__content toggle-content__content--expanded toggle-content__content--packable" data-v-1740b522="">
+   <div data-test-id="activity-full-description-text" data-v-579d949a="">
+    <ul>
+     <li>
+      Finally, visit the Memnon Colossi, which are two of the largest ancient statues in Egypt, which date back to the era of King Amenhotep III. At the end of the day, fly back from Luxor by Plane to Sharm El Sheikh and bus will take you back to your hotel.
+     </li>
+    </ul>
+   </div>
+  </div>
+  <div class="toggle-content__label-placeholder" data-v-1740b522="">
+   <h3>
+    Departure time &amp; Return
+   </h3>
+   <p>
+    Pickup: Around 4:30 am (Depending on your hotel location in Sharm el sheikh).
+    <br/>
+    Drop Off: Around 21:30 am .
+    <br/>
+    Duration: 18 Hours
+    <br/>
+    Tour available 2 dayes a week.
+   </p>
+   <h3 class="activity-important-information__title">
+    What to bring
+   </h3>
+   <section class="toggle-content" data-v-1740b522="" data-v-1bea4dbd="">
+    <div class="toggle-content__content" data-v-1740b522="">
+     Your Passport &amp; comfortable clothes &amp; lunch box
+    </div>
+    <div data-v-1740b522="">
+     <h3>
+      Tour price
+     </h3>
+     <p>
+      Adult  : 210€ per person.
+      <br/>
+      Child  : from 2 years to 10 years: 200€
+      <br/>
+      Infant : Under 2 years old are Free of charge.
+     </p>
+     <h3 class="activity-important-information__title">
+      Know before you go
+     </h3>
+     <section class="toggle-content" data-v-1740b522="" data-v-1bea4dbd="">
+      <div class="toggle-content__content" data-v-1740b522="">
+       <ul class="activity-important-information__list good-to-know" data-v-1bea4dbd="">
+        <li class="activity-important-information__item" data-v-1bea4dbd="">
+         A visa is necessary for visiting Luxor.
+        </li>
+        <li data-v-1bea4dbd="">
+         Optional round by small boat in the Nile for extra money.
+        </li>
+       </ul>
+      </div>
+     </section>
+    </div>
+   </section>
+  </div>
+ </div>
+ <!--  Tour Included/Excluded -->
+ <div class="content-product-item tour-included-excluded-wrapper" id="tour-included-excluded">
+  <h2 class="heading-tour-included-excluded">
+   Included/Excluded
+  </h2>
+  <div class="tour-included-excluded-content">
+   <ul class="tour-included">
+    <li class="item-tour-included">
+     Transfer from your hotel
+    </li>
+    <li class="item-tour-included">
+     Tour guide
+    </li>
+    <li class="item-tour-included">
+     Entrance fees
+    </li>
+    <li class="item-tour-included">
+     Lunch
+    </li>
+   </ul>
+   <ul class="tour-excluded">
+    <li class="item-tour-excluded">
+     Personal expenses
+    </li>
+    <li class="item-tour-excluded">
+     drinks
+    </li>
+    <li class="item-tour-excluded">
+     Visa
+    </li>
+   </ul>
+  </div>
+ </div>
+ <!--  Tour Plan -->
+ <!--  Tour Map -->
+ <!--  Tour Review -->
+</div>
+
+
+<div class="ova-single-product-summary-left">
+ <div data-track="overview" data-v-2007c7c8="">
+  <section class="activity-overview" data-component="overview" data-v-2007c7c8="" data-v-5726f79d="" id="activity-overview">
+   <p class="activity-overview__content" data-test-id="activity-overview-content" data-v-5726f79d="">
+    Petra Jordan from Sharm El Sheikh Discover one of the wonders of the world on this full-day trip to Petra, Aqaba, and Wadi Musa. Enjoy round-trip bus and ferry transfers and a lunch buffet of traditional Jordanian cuisine.
+   </p>
+  </section>
+ </div>
+ <h3 data-track="key-details">
+  Description
+ </h3>
+ <ul>
+  <li>
+   Be picked up from the comfort of your accommodation in Sharm El SHeikh. Relax on the air-conditioned drive in a spacious bus on the drive to the port in Taba. Hop aboard a ferry and relax on the cruise to Aqaba. Travel by bus for about 2 hours to Petra.
+  </li>
+  <li>
+   Follow your guide on a 2-3-hour walking tour of the archeological site. Enter Petra on foot, through the Siq is a narrow, winding gorge over 1 kilometer in length. Visit the Great Treasury (Al-Khazneh Farun), the Roman Theatre, and the Royal Tombs (the Rainbow Tomb is a must for photographers).
+  </li>
+  <li>
+   Admire hundreds of monuments, tricliniums (formal Roman dining rooms), and obelisks, all carved from the multi-shaded, rose-red sandstone. A walk through the colonnade of Roman Byzantine Petra brings you to the city center.
+  </li>
+  <li>
+   Continue to the hill of Al-Habis in Wadi Musa, crowned with a crusader-era fort). Take in breathtaking panoramic views of deep gullies and uniquely colored rock formations. Rest with a buffet lunch where you can try local specialties paired with a soft drink.
+  </li>
+  <li>
+  </li>
+  <li>
+   Drive back to Aqaba where you will have an hour of free time for shopping before boarding the ferry back to Taba and transferring back to your hotel in Dahab late at night.
+  </li>
+ </ul>
+ <div class="toggle-content__content toggle-content__content--expanded toggle-content__content--packable" data-v-1740b522="">
+  <div data-test-id="activity-full-description-text" data-v-579d949a="">
+   <h3>
+    Departure time &amp; Return
+   </h3>
+   <p>
+    Pickup: Around 21:00 (Depending on your hotel location in Sharm el sheikh).
+    <br/>
+    Drop Off: Around 01:00 am .
+    <br/>
+    Duration: 1 day
+    <br/>
+    Tour available every Tuesday and Friday
+   </p>
+   <h3>
+    What to bring
+   </h3>
+   <p>
+    Passport &amp; Comfortable shoes &amp; Comfortable clothes &amp; Cash
+   </p>
+   <aside class="activity__container-columns--side" data-v-2007c7c8="">
+    <section class="activity__price" data-test-id="activity-price-block" data-v-2007c7c8="" data-v-cbdc8c44="">
+     <div class="price-block price-block--has-price" data-v-cbdc8c44="">
+      <div class="price-block-display-price-wrapper" data-test-id="activity-price-block" data-v-cbdc8c44="">
+       <h3>
+        Tour price
+       </h3>
+       <p>
+        Adult  : 220€ per person.
+        <br/>
+        Infant : Under 2 years old are Free of charge
+       </p>
+      </div>
+     </div>
+    </section>
+   </aside>
+   <p>
+   </p>
+  </div>
+ </div>
+ <!--  Tour Included/Excluded -->
+ <div class="content-product-item tour-included-excluded-wrapper" id="tour-included-excluded">
+  <h2 class="heading-tour-included-excluded">
+   Included/Excluded
+  </h2>
+  <div class="tour-included-excluded-content">
+   <ul class="tour-included">
+    <li class="item-tour-included">
+     Transfer from your hotel
+    </li>
+    <li class="item-tour-included">
+     Tour guide
+    </li>
+    <li class="item-tour-included">
+     Lunch
+    </li>
+    <li class="item-tour-included">
+     1-day entry to Petra
+    </li>
+    <li class="item-tour-included">
+     Wadi Musa visit
+    </li>
+    <li class="item-tour-included">
+     Ferry tickets
+    </li>
+   </ul>
+   <ul class="tour-excluded">
+    <li class="item-tour-excluded">
+     Personal expenses
+    </li>
+    <li class="item-tour-excluded">
+     drinks
+    </li>
+   </ul>
+  </div>
+ </div>
+ <!--  Tour Plan -->
+ <!--  Tour Map -->
+ <!--  Tour Review -->
+</div>
+
+
+<div class="ova-single-product-summary-left">
+ <div data-track="overview" data-v-2007c7c8="">
+  <section class="activity-overview" data-component="overview" data-v-2007c7c8="" data-v-5726f79d="" id="activity-overview">
+   <p class="activity-overview__content" data-test-id="activity-overview-content" data-v-5726f79d="">
+    Seascope Sharm El-Sheikh Royal Submarine Discover the underwater wonders on a submarine cruise in Sharm El-Sheikh. Admire the underwater views from an air-conditioned seat in an observation deck 4 meters below sea level.
+   </p>
+  </section>
+ </div>
+ <h3 data-track="key-details">
+  Description
+ </h3>
+ <ul>
+  <li data-track="key-details">
+   Enjoy a comfortable pickup from your hotel in Sharm el-Sheikh and drive to the coast. Board the submarine and dive into the water
+  </li>
+  <li data-track="key-details">
+   Our programme starts with first departing the marina and cruise for 15 minutes to one of the best coral reefs near the Sharm coastline. Then, descending to an air-conditioned underwater glassed-walled observation deck, view the extraordinary underwater world through huge panoramic windows from the comfort of your own seat for approximately 60 minutes. See Sharm el-Sheik’s famous and vibrant marine life from the comfort of the Seascope Sharm El-Sheikh Royal Submarine .
+  </li>
+ </ul>
+ <div data-track="key-details" data-v-2007c7c8="">
+  <h3>
+   Departure time &amp; Return
+  </h3>
+  <ul>
+   <li>
+    This trip available 3 times a day:
+   </li>
+   <li>
+    At 09:00 am till 12:00
+   </li>
+   <li>
+    At 10:30 am till 13:30 pm
+   </li>
+   <li class="toggle-content__label-placeholder">
+    At 13:45 pm till 17:00 pm
+   </li>
+   <li>
+    Duration: 3 hours.
+   </li>
+   <li>
+    Tour available Everyday
+   </li>
+  </ul>
+ </div>
+ <div data-track="key-details" data-v-2007c7c8="">
+  <h3>
+   What to bring
+  </h3>
+  <p>
+   Sunglasses &amp; Comfortable clothes &amp;
+   <span class="gdlr-core-icon-list-content">
+    Camera
+   </span>
+  </p>
+  <h3>
+   Tour price
+  </h3>
+  <p>
+   Adult  : 30€ per person.
+   <br/>
+   Child  : from 4 years to 10 years: 15€
+   <br/>
+   Infant : Under 4 years old are Free of charge
+  </p>
+ </div>
+ <!--  Tour Included/Excluded -->
+ <div class="content-product-item tour-included-excluded-wrapper" id="tour-included-excluded">
+  <h2 class="heading-tour-included-excluded">
+   Included/Excluded
+  </h2>
+  <div class="tour-included-excluded-content">
+   <ul class="tour-included">
+    <li class="item-tour-included">
+     Transfer from your hotel
+    </li>
+    <li class="item-tour-included">
+     Tour guide
+    </li>
+    <li class="item-tour-included">
+     National Park fee
+    </li>
+   </ul>
+   <ul class="tour-excluded">
+    <li class="item-tour-excluded">
+     Personal expenses
+    </li>
+    <li class="item-tour-excluded">
+     drinks
+    </li>
+    <li class="item-tour-excluded">
+     Photo services
+    </li>
+   </ul>
+  </div>
+ </div>
+ <!--  Tour Plan -->
+ <!--  Tour Map -->
+ <!--  Tour Review -->
+</div>
+
+
+<div class="ova-single-product-summary-left">
+ <h3>
+  Overview
+ </h3>
+ <p>
+  Explore Sinai Desert and a Bedouin village on ATV Quad Bike and camel ride safari starting in Sharm El Sheikh. Enjoy visiting the mountains of Echo of Sound.
+ </p>
+ <h3>
+  Highlights
+ </h3>
+ <ul>
+  <li>
+   Enjoy a sunrise quad bike adventure in Red Sea desert
+  </li>
+  <li>
+   Discover the Sinai desert by  ATV quad bike
+  </li>
+  <li>
+   Visit Bedouin tent and Echo Mountains
+  </li>
+ </ul>
+ <h3>
+  Departure time &amp; Return
+ </h3>
+ <ul>
+  <li>
+   This trip available 4 times a day at different times
+  </li>
+  <li>
+   At 04:00 am till 07:00 am
+  </li>
+  <li>
+   At 09:00 am till 12:00 am
+  </li>
+  <li class="toggle-content__label-placeholder">
+   At 14:00 pm till 17:00 pm
+  </li>
+  <li>
+   At 15:30 pm till 21:00 pm ( if you choose dinner and show)
+  </li>
+  <li>
+   Tour available every day.
+  </li>
+ </ul>
+ <h3>
+  Tour price
+ </h3>
+ <ul>
+  <li>
+   Single quad 15€
+  </li>
+  <li>
+   Double quad 20€
+  </li>
+  <li>
+   Camel riding 5€ (10 minutes round)
+  </li>
+  <li>
+   For private trip 15€ total
+  </li>
+ </ul>
+ <h3>
+  What to bring
+ </h3>
+ <p>
+  sunglasses &amp; head scarf &amp; comfort clothes
+ </p>
+ <h3>
+  How to book
+ </h3>
+ <p>
+  By sending a message with your details ( tour name &amp; hotel name &amp; room number &amp; tour date )
+ </p>
+ <h6>
+  you can sand a massage via Whatsapp +201066535255
+ </h6>
+ <h3>
+  Not suitable for
+ </h3>
+ <ul>
+  <li>
+   Pregnant woman
+  </li>
+ </ul>
+ <!--  Tour Included/Excluded -->
+ <div class="content-product-item tour-included-excluded-wrapper" id="tour-included-excluded">
+  <h2 class="heading-tour-included-excluded">
+   Included/Excluded
+  </h2>
+  <div class="tour-included-excluded-content">
+   <ul class="tour-included">
+    <li class="item-tour-included">
+     Transfer from your hotel
+    </li>
+    <li class="item-tour-included">
+     Tour guide
+    </li>
+    <li class="item-tour-included">
+     Visit Bedouin villge
+    </li>
+    <li class="item-tour-included">
+     Ride on ATV quad bike
+    </li>
+    <li class="item-tour-included">
+     Camel riding
+    </li>
+    <li class="item-tour-included">
+     Bedouin tea
+    </li>
+   </ul>
+   <ul class="tour-excluded">
+    <li class="item-tour-excluded">
+     Personal expenses
+    </li>
+    <li class="item-tour-excluded">
+     Gratuities
+    </li>
+    <li class="item-tour-excluded">
+     Photo services
+    </li>
+   </ul>
+  </div>
+ </div>
+ <!--  Tour Plan -->
+ <!--  Tour Map -->
+ <!--  Tour Review -->
+</div>
+
+
+<div class="ova-single-product-summary-left">
+ <p>
+  Enjoy a Dolphin show &amp; swimming with dolphins and, in addition, opt to get your photo taken with the dolphins at Dolphina Park. Furthermore, you can get round-trip hotel transfers from Sharm el-Sheikh and, if you’d like, upgrade your entry ticket to swim with the dolphins.
+ </p>
+ <h3>
+  Description
+ </h3>
+ <ul>
+  <li>
+   It is a perfect option for children and adults to come close to nature and enjoy these nice animals. In addition, only here you can notice how smart and playful these animals really are.
+  </li>
+  <li>
+   At 14:00, we will pick you up. Furthermore, the dolphin show is a 60-minute show full of fun and enjoyment. In addition, there are 4 very smart and playful dolphins. Also, during the show, you will have the chance to take photos. Additionally, afterwards you can get down to touch the animals.
+  </li>
+  <li>
+   Upgrade your ticket to get your photo taken with the dolphins, or alternatively, chose to join them for a swim. In doing so, you can create beautiful memories with your family as you get to know these beloved animals in the water.
+  </li>
+  <li>
+   <div class="p2" id="resultResponse">
+    Finally, at the end of this fantastic trip, you will be dropped off to your hotel in Sharm el Sheikh.
+   </div>
+  </li>
+ </ul>
+ <h3>
+  Departure time &amp; Return
+ </h3>
+ <p>
+  Pickup: Around 14:00 (Depending on your hotel location in Sharm el sheikh).
+  <br/>
+  Drop Off: Around 16:30 Pm .
+  <br/>
+  Duration: 3 hours.
+  <br/>
+  Tour available every day.
+ </p>
+ <h3>
+  What to bring
+ </h3>
+ <p>
+  Towels &amp; swimming clothes &amp; camera
+ </p>
+ <h3>
+  Tour price
+ </h3>
+ <p>
+  Adult  : 20€ per person.
+  <br/>
+  Child  : from 3 years to 8 years: 13€
+  <br/>
+  Infant : Under 3 years old are Free of charge
+ </p>
+ <h3>
+  Notice
+ </h3>
+ <ul>
+  <li>
+   you can add swimming with dolphins for 15 minutes for 65€ &amp; 30 minutes 85€
+  </li>
+  <li>
+   Adults and children pay the same price.
+  </li>
+ </ul>
+ <!--  Tour Included/Excluded -->
+ <div class="content-product-item tour-included-excluded-wrapper" id="tour-included-excluded">
+  <h2 class="heading-tour-included-excluded">
+   Included/Excluded
+  </h2>
+  <div class="tour-included-excluded-content">
+   <ul class="tour-included">
+    <li class="item-tour-included">
+     Transfer from your hotel
+    </li>
+    <li class="item-tour-included">
+     Entrance fees
+    </li>
+    <li class="item-tour-included">
+     Show 1 hour
+    </li>
+   </ul>
+   <ul class="tour-excluded">
+    <li class="item-tour-excluded">
+     drinks
+    </li>
+    <li class="item-tour-excluded">
+     Photo services
+    </li>
+   </ul>
+  </div>
+ </div>
+ <!--  Tour Plan -->
+ <!--  Tour Map -->
+ <!--  Tour Review -->
+</div>
+
+
+<div class="ova-single-product-summary-left">
+ <h3>
+  Scuba Diving Options: Bubble maker
+ </h3>
+ <p>
+  With Scuba Diving Options A dive for children from 8 years with a lot of games and fun in the pool, included certificate
+ </p>
+ <p>
+  Price: 40€
+ </p>
+ <h3>
+  Discover Scuba Diving DSD
+ </h3>
+ <p>
+  If you want to try scuba diving, but aren’t quite ready to take the plunge into a certification course, Discover Scuba Diving is for you.
+ </p>
+ <p>
+  The PADI Discover Scuba Diving (DSD) is a short try-diving experience for adults and children aged +10. This course introduces you to the basics of scuba diving without certifying you as a diver. The DSD program is a half-day activity, so is ideal for those interested in trying scuba, but lacking spare time. The course has theoretical session + practical session a dive in swimming pool followed by a guided dive in one of the most beautiful reefs in the Red Sea.
+ </p>
+ <p>
+  Price: 55€
+ </p>
+ <h3>
+  1 or 2 Intro dive from the boat
+ </h3>
+ <p>
+  Imagine your first dive from the boat, A full day adventure that takes you to explore the beautiful under water life of the Red Sea. Bring your family with you to share your unique experience. Drinks, lunch, equipment, transfer included.
+ </p>
+ <p>
+  Price: 35€-45€
+ </p>
+ <h3>
+  PADI Scuba Diver Course
+ </h3>
+ <p>
+  PADI Scuba Diver Course is a subset of PADI Open Water Diver Course. If you are short on time but really want to become a diver, PADI Scuba Diver might be right for you on depth 12 meters, Certification and equipment included. Duration: 2 days.
+ </p>
+ <p>
+  Price : 300€
+ </p>
+ <h3>
+  Open Water Diver course
+ </h3>
+ <p>
+  Get your certification with Open Water Diver Course the world’s most popular and widely recognized scuba course. It consists of three main phases : knowledge development to understand basic principles of scuba diving. Confined water dives to learn basic scuba skills. Open water dives to use your skills on depth 18 meters, Certification and equipment included. Duration: 3 days.
+ </p>
+ <p>
+  Price : 350€
+ </p>
+ <h3>
+  Advanced Open Water Course
+ </h3>
+ <p>
+  The course helps build confidence and expand your scuba skills through different adventure dives from boat or house reef. An orientation check dive or scuba review dive is mandatory before starting this course. Certification and equipment included. Duration: 2 days.
+ </p>
+ <p>
+  Price : 300€
+ </p>
+ <p>
+  Ask for Scuba Diving Options for Professional Divers
+ </p>
+ <!--  Tour Included/Excluded -->
+ <!--  Tour Plan -->
+ <!--  Tour Map -->
+ <!--  Tour Review -->
+</div>
+
+
+<div class="ova-single-product-summary-left">
+ <div data-track="overview" data-v-2007c7c8="">
+  <section class="activity-overview" data-component="overview" data-v-2007c7c8="" data-v-5726f79d="" id="activity-overview">
+   <p class="activity-overview__content" data-test-id="activity-overview-content" data-v-5726f79d="">
+    Relax in luxury as you float around the Red Sea on a Private Yacht to White Island Ras Mohammed. Go swimming, snorkel,  lie in the sun, and enjoy lunch onboard your very own boat for the day with unlimited soft drinks.
+   </p>
+  </section>
+ </div>
+ <h3 data-track="key-details">
+  Description
+ </h3>
+ <div data-track="key-details" data-v-2007c7c8="">
+  <ul>
+   <li>
+    Enjoy  from a Private Yacht to White Island Ras Mohammed Sharm El Sheikh to Ras Mohammed National Reserve with included open buffet lunch. discover the coral reef at magnificent snorkeling spots with a wide array of marine life.
+   </li>
+   <li>
+    We will pick up you from your hotel in Sharm El Sheikh to the marine port ,where you will board the boat to sail to Ras Mohammed National Park.
+   </li>
+   <li>
+    Spend a fantastic of snorkeling, there will be 3 stops in the best sites in Ras Mohammed to enjoy the coral reefs and explore the fantastic marine life in the Red Sea and white island.
+   </li>
+   <li>
+    Enjoy delicious open buffet lunch on the boat. At the end of this fantastic day, you will be dropped off at your hotel.
+   </li>
+  </ul>
+  <h3>
+   Departure time &amp; Return
+  </h3>
+  <p>
+   Pickup: Around 8:00 am (Depending on your hotel location in Sharm el sheikh).
+   <br/>
+   Drop Off: Around 16:30 Pm .
+   <br/>
+   Duration: 8 hours.
+   <br/>
+   Tour available every day
+  </p>
+  <h3>
+   What to bring
+  </h3>
+  <p>
+   Towels &amp; swimming clothes &amp; sun cream &amp; copy of your passport
+  </p>
+  <h3>
+   Tour price
+  </h3>
+  <p>
+   Price 400€ per group up to 10 person.
+  </p>
+  <p>
+   You can add intro dive 10€ per person.
+  </p>
+ </div>
+ <div data-track="key-details" data-v-2007c7c8="">
+ </div>
+ <!--  Tour Included/Excluded -->
+ <div class="content-product-item tour-included-excluded-wrapper" id="tour-included-excluded">
+  <h2 class="heading-tour-included-excluded">
+   Included/Excluded
+  </h2>
+  <div class="tour-included-excluded-content">
+   <ul class="tour-included">
+    <li class="item-tour-included">
+     Private transfer from your hotel
+    </li>
+    <li class="item-tour-included">
+     Tour guide
+    </li>
+    <li class="item-tour-included">
+     Lunch &amp; soft drinks
+    </li>
+    <li class="item-tour-included">
+     Snorkeling equipment ( mask, fins, life jacket)
+    </li>
+    <li class="item-tour-included">
+     National Park fees
+    </li>
+   </ul>
+   <ul class="tour-excluded">
+    <li class="item-tour-excluded">
+     Personal expenses
+    </li>
+    <li class="item-tour-excluded">
+     Introduction dive 10€
+    </li>
+    <li class="item-tour-excluded">
+     Photo services
+    </li>
+   </ul>
+  </div>
+ </div>
+ <!--  Tour Plan -->
+ <!--  Tour Map -->
+ <!--  Tour Review -->
+</div>
+
+
+<div class="ova-single-product-summary-left">
+ <h2>
+  Overview
+ </h2>
+ <p>
+  Enjoy a trip by boat from Sharm El Sheikh to  White Island Ras Mohammed National Reserve with included open buffet lunch. discover the coral reef at magnificent snorkeling spots with a wide array of marine life.
+ </p>
+ <p>
+  We will pick up you from your hotel in Sharm El Sheikh to the marine port ,where you will board the boat to sail to Ras Mohammed National Park.
+ </p>
+ <p>
+  Spend a fantastic of snorkeling, there will be 3 stops in the best sites in Ras Mohammed to enjoy the coral reefs and explore the fantastic marine life in the Red Sea and stop on White Island Egyptian Maldives.
+ </p>
+ <p>
+  Enjoy delicious open buffet lunch on the boat. At the end of this fantastic day, you will be dropped off at your hotel.
+ </p>
+ <h4>
+  Tour Highlights
+ </h4>
+ <ul>
+  <li>
+   Explore Ras Mohamed and White Island by boat
+  </li>
+  <li>
+   Enjoy one of the best spots for snorkeling in the Red Sea and the world
+  </li>
+  <li>
+   Have delicious open buffet lunch on the boat
+  </li>
+  <li>
+   Snorkel and swim in 3 stops in the National Park
+  </li>
+  <li>
+   Discover amazing underwater life with various fish and coral reefs
+  </li>
+ </ul>
+ <h3>
+  Departure time &amp; Return
+ </h3>
+ <p>
+  Pickup: Around 8:00 am (Depending on your hotel location in Sharm el sheikh).
+  <br/>
+  Drop Off: Around 16:30 Pm .
+  <br/>
+  Duration: 8 hours.
+  <br/>
+  Tour available every day
+ </p>
+ <h3>
+  What to bring
+ </h3>
+ <p>
+  Towels &amp; swimming clothes &amp; sun cream &amp; copy of your passport
+ </p>
+ <h3>
+  Tour price
+ </h3>
+ <ul>
+  <li>
+   Adult  : 25€ per person.
+  </li>
+  <li>
+   Child  : from 5 years to 10 years: 15€
+  </li>
+  <li>
+   Infant : Under 5 years old are Free of charge
+  </li>
+  <li>
+   You can add intro dive 10€
+  </li>
+ </ul>
+ <h3>
+  How to book
+ </h3>
+ <p>
+  By sending a message with your details ( tour name &amp; hotel name &amp; room number &amp; tour date )
+ </p>
+ <h5>
+  you can sand a message via WhatsApp +201066535255
+ </h5>
+ <h2 class="heading-tour-included-excluded">
+  Included
+ </h2>
+ <ul class="tour-included">
+  <li class="item-tour-included">
+   Transfer from your hotel
+  </li>
+  <li class="item-tour-included">
+   Tour guide
+  </li>
+  <li class="item-tour-included">
+   Lunch &amp; soft drinks
+  </li>
+  <li class="item-tour-included">
+   Snorkeling equipment ( mask, fins, life jacket)
+  </li>
+  <li class="item-tour-included">
+   National Park fees
+  </li>
+ </ul>
+ <div class="content-product-item tour-included-excluded-wrapper" id="tour-included-excluded">
+  <h2 class="heading-tour-included-excluded">
+   Excluded
+  </h2>
+  <ul class="tour-excluded">
+   <li class="item-tour-excluded">
+    Introduction dive 10€
+   </li>
+   <li class="item-tour-excluded">
+    Photo service
+   </li>
+   <li class="item-tour-excluded">
+    Personal expenses
+    <div class="content-product-item tour-included-excluded-wrapper" id="tour-included-excluded">
+     <div class="tour-included-excluded-content">
+     </div>
+    </div>
+   </li>
+  </ul>
+ </div>
+ <!--  Tour Included/Excluded -->
+ <!--  Tour Plan -->
+ <!--  Tour Map -->
+ <!--  Tour Review -->
+ <div class="content-product-item ova-tour-review" id="ova-tour-review">
+  <div class="woocommerce-Reviews" id="reviews">
+   <div id="comments">
+    <h2 class="woocommerce-Reviews-title">
+     1 review for
+     <span>
+      WHITE ISLAND RAS MOHAMMED LUXURY BOAT TRIP
+     </span>
+    </h2>
+    <ol class="commentlist">
+     <li class="review even thread-even depth-1" id="li-comment-44">
+      <div class="comment_container" id="comment-44">
+       <img alt="" class="avatar avatar-60 photo" decoding="async" height="60" src="https://secure.gravatar.com/avatar/e89bb69047840cf0cbf4d0e6ad53ddd3052c8665bb468d170ea94e5196c847ce?s=60&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/e89bb69047840cf0cbf4d0e6ad53ddd3052c8665bb468d170ea94e5196c847ce?s=120&amp;d=mm&amp;r=g 2x" width="60"/>
+       <div class="comment-text">
+        <div aria-label="Rated 5 out of 5" class="star-rating" role="img">
+         <span style="width:100%">
+          Rated
+          <strong class="rating">
+           5
+          </strong>
+          out of 5
+         </span>
+        </div>
+        <p class="meta">
+         <strong class="woocommerce-review__author">
+          Валерия
+         </strong>
+         <span class="woocommerce-review__dash">
+          –
+         </span>
+         <time class="woocommerce-review__published-date" datetime="2024-03-27T21:02:00+02:00">
+          March 27, 2024
+         </time>
+        </p>
+        <div class="description">
+         <p>
+          Каждый раз ездим именно с ними. Классная экскурсия. Шикарные ребята . На этой экскурсии не впервой. Советую всем  кто любит море . Возможен дайвинг за доп оплату
+         </p>
+        </div>
+       </div>
+      </div>
+     </li>
+     <!-- #comment-## -->
+    </ol>
+   </div>
+   <div id="review_form_wrapper">
+    <div id="review_form">
+     <div class="comment-respond" id="respond">
+      <span class="comment-reply-title" id="reply-title">
+       Add a review
+       <small>
+        <a href="/product/white-island-ras-mohammed-luxury-boat-trip-2/#respond" id="cancel-comment-reply-link" rel="nofollow" style="display:none;">
+         Cancel reply
+        </a>
+       </small>
+      </span>
+      <form action="https://sharm-voyage.com/wp-comments-post.php" class="comment-form" id="commentform" method="post" novalidate="">
+       <p class="comment-notes">
+        <span id="email-notes">
+         Your email address will not be published.
+        </span>
+        <span class="required-field-message">
+         Required fields are marked
+         <span class="required">
+          *
+         </span>
+        </span>
+       </p>
+       <div class="comment-form-rating">
+        <label for="rating">
+         Your rating
+         <span class="required">
+          *
+         </span>
+        </label>
+        <select id="rating" name="rating" required="">
+         <option value="">
+          Rate…
+         </option>
+         <option value="5">
+          Perfect
+         </option>
+         <option value="4">
+          Good
+         </option>
+         <option value="3">
+          Average
+         </option>
+         <option value="2">
+          Not that bad
+         </option>
+         <option value="1">
+          Very poor
+         </option>
+        </select>
+       </div>
+       <p class="comment-form-comment">
+        <label for="comment">
+         Your review
+         <span class="required">
+          *
+         </span>
+        </label>
+        <textarea cols="45" id="comment" name="comment" required="" rows="8"></textarea>
+       </p>
+       <input name="wpml_language_code" type="hidden" value="en">
+        <p class="comment-form-author">
+         <label for="author">
+          Name
+          <span class="required">
+           *
+          </span>
+         </label>
+         <input id="author" name="author" required="" size="30" type="text" value=""/>
+        </p>
+        <p class="comment-form-email">
+         <label for="email">
+          Email
+          <span class="required">
+           *
+          </span>
+         </label>
+         <input id="email" name="email" required="" size="30" type="email" value=""/>
+        </p>
+        <p class="comment-form-cookies-consent">
+         <input id="wp-comment-cookies-consent" name="wp-comment-cookies-consent" type="checkbox" value="yes"/>
+         <label for="wp-comment-cookies-consent">
+          Save my name, email, and website in this browser for the next time I comment.
+         </label>
+        </p>
+        <p class="form-submit">
+         <input class="submit" id="submit" name="submit" type="submit" value="Submit"/>
+         <input id="comment_post_ID" name="comment_post_ID" type="hidden" value="9732"/>
+         <input id="comment_parent" name="comment_parent" type="hidden" value="0"/>
+        </p>
+        <p style="display: none;">
+         <input id="akismet_comment_nonce" name="akismet_comment_nonce" type="hidden" value="cec3df978d"/>
+        </p>
+        <p class="akismet-fields-container" data-prefix="ak_" style="display: none !important;">
+         <label>
+          Δ
+          <textarea cols="45" maxlength="100" name="ak_hp_textarea" rows="8"></textarea>
+         </label>
+         <input id="ak_js_1" name="ak_js" type="hidden" value="53"/>
+         <script>
+          document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );
+         </script>
+        </p>
+       </input>
+      </form>
+     </div>
+     <!-- #respond -->
+    </div>
+   </div>
+   <div class="clear">
+   </div>
+  </div>
+ </div>
+</div>
+
+
+<div class="ova-single-product-summary-left">
+ <p>
+  Cairo tour By Bus From Sharm el Sheikh 2 Days Trip and have over night in Hotel in Cairo with 2 days tour,  you have plenty of time to enjoy a tour excursion to the pyramids of Giza &amp; Sphinx, Admire the treasures of the Egyptian museum and the spiritual atmosphere of mosques and churches in the Citadel.
+ </p>
+ <h3>
+  Description
+ </h3>
+ <h4>
+  First day:
+ </h4>
+ <p>
+  First day is the same as Cairo by bus 0ne day trip from Sharm El Sheikh
+ </p>
+ <blockquote class="wp-embedded-content" data-secret="TKyjoLxJEd">
+  <p>
+   <a href="https://sharm-voyage.com/product/cairo-by-bus-giza-pyramids-and-egyptian-museum-day-trip/">
+    Cairo By Bus Pyramids Giza and Egyptian Museum Day Trip
+   </a>
+  </p>
+ </blockquote>
+ <p>
+  <iframe class="wp-embedded-content" data-secret="TKyjoLxJEd" frameborder="0" height="338" marginheight="0" marginwidth="0" sandbox="allow-scripts" scrolling="no" security="restricted" src="https://sharm-voyage.com/product/cairo-by-bus-giza-pyramids-and-egyptian-museum-day-trip/embed/#?secret=7WxwNdsSd5#?secret=TKyjoLxJEd" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" title="“Cairo By Bus Pyramids Giza and Egyptian Museum Day Trip” — Sharm Voyage" width="600">
+  </iframe>
+ </p>
+ <p>
+  discover most of the Cairo sightseeing tours.
+ </p>
+ <p>
+  visit the Pyramids of Giza Khufu, Khafre and Menkaure and the Sphinx.
+ </p>
+ <p>
+  Tour in the Egyptian museum which is famous for its antiquities from the Pharaonic period of Egypt that dates back about 5000 years and includes the fabulous treasures of King Tutankhamun.
+ </p>
+ <p>
+  -Sailboat in the Nile river.
+ </p>
+ <p>
+  -Shopping in the Perfume Shop and Papyrus Museum.
+ </p>
+ <p>
+  then we will drive you back to the hotel near the pyramids area in Giza “3-4 Stars” in Cairo for one night “dinner and breakfast included” in a double room.
+ </p>
+ <h4>
+  Second day:
+ </h4>
+ <p>
+  -Breakfast at the hotel
+ </p>
+ <p>
+  -visit to the old Coptic Cairo, located in the area of ​​the ancient fortress of Babylon. Visit to all seven ancient churches and synagogues.
+ </p>
+ <p>
+  -Islamic Cairo, a visit to an ancient Islamic street called El Muez. The street is famous for El Hussein mosque, where one of the grandchildren of prophet Mahammad is buried, and there is also the oldest religious school in the Islamic world, El Azhar.
+ </p>
+ <p>
+  -The oriental bazaar Khan el Khalili
+ </p>
+ <p>
+  -Lunch “included in the price, drinks are not included” will be served in a good quality restaurant.
+ </p>
+ <p>
+  -visit the Citadel of Saladin and the Mohamed Ali Alabaster Mosque, inside which there is a mosque in true Ottoman style, inspired by the Blue Mosque of Istanbul.
+ </p>
+ <p>
+  Finally we will drive you to the bus station to return to Sharm El Sheikh where our guide will be waiting for you to drive you back to your hotel in Sharm
+ </p>
+ <h3>
+  Departure time &amp; Return
+ </h3>
+ <p>
+  Pickup: Around 00:30 am (Depending on your hotel location in Sharm el sheikh).
+  <br/>
+  Drop Off: Around 01:00 am .
+  <br/>
+  Duration: 2 Days
+  <br/>
+  Tour available every day.
+ </p>
+ <h3 class="activity-important-information__title">
+  What to bring
+ </h3>
+ <section class="toggle-content" data-v-1740b522="" data-v-1bea4dbd="">
+  <div class="toggle-content__content" data-v-1740b522="">
+   Your Passport &amp; comfortable clothes &amp; lunch box
+  </div>
+  <div data-v-1740b522="">
+   <h3>
+    Tour price
+   </h3>
+   <p>
+    Adult  : 150€ per person.
+    <br/>
+    Child  : from 5 years to 10 years: 140€
+    <br/>
+    Infant : Under 5 years old are Free of charge.
+   </p>
+   <h3 class="activity-important-information__title">
+    Know before you go
+   </h3>
+   <section class="toggle-content" data-v-1740b522="" data-v-1bea4dbd="">
+    <div class="toggle-content__content" data-v-1740b522="">
+     <ul class="activity-important-information__list good-to-know" data-v-1bea4dbd="">
+      <li class="activity-important-information__item" data-v-1bea4dbd="">
+       A visa is necessary for visiting Cairo.
+      </li>
+      <li data-v-1bea4dbd="">
+       You can have a private trip in Cairo for extra charge.
+      </li>
+     </ul>
+    </div>
+   </section>
+  </div>
+ </section>
+ <!--  Tour Included/Excluded -->
+ <div class="content-product-item tour-included-excluded-wrapper" id="tour-included-excluded">
+  <h2 class="heading-tour-included-excluded">
+   Included/Excluded
+  </h2>
+  <div class="tour-included-excluded-content">
+   <ul class="tour-included">
+    <li class="item-tour-included">
+     Transfer from your hotel
+    </li>
+    <li class="item-tour-included">
+     Tour guide
+    </li>
+    <li class="item-tour-included">
+     Lunch, Dinner in 1ST Day- Breakfast, Lunch in 2ND Day.
+    </li>
+    <li class="item-tour-included">
+     Hotel 3* for 1 Night
+    </li>
+    <li class="item-tour-included">
+     Entry fees of Museum, Pyramids, Citadel, old Cairo.
+    </li>
+   </ul>
+   <ul class="tour-excluded">
+    <li class="item-tour-excluded">
+     Personal expenses
+    </li>
+    <li class="item-tour-excluded">
+     Drinks in restaurants
+    </li>
+    <li class="item-tour-excluded">
+     Boat in the Nile.
+    </li>
+    <li class="item-tour-excluded">
+     Visa
+    </li>
+   </ul>
+  </div>
+ </div>
+ <!--  Tour Plan -->
+ <!--  Tour Map -->
+ <!--  Tour Review -->
+</div>
+
+
+<div class="ova-single-product-summary-left">
+ <p>
+  Explore the desert of Sharm El Sheikh on Horse Riding in Desert from Sharm El Shiekh.
+ </p>
+ <h3>
+  Description
+ </h3>
+ <ul>
+  <li>
+   We will pick you up from your hotel , drive by bus air condition to the horse camp,An instructor will need to assess your riding skills before allowing you to go on any excursion, Instruction is offered to all levels, from beginners to advanced riders who want to polish up on their skills.
+  </li>
+  <li>
+   Then you deal with the trainer to see which horse you can ride, start your tour in desert for 1 hour or 2 hours of riding and stop for 10 minutes to enjoy Bedouin tea in the tent. then get back to the stable to get back to your hotel.
+  </li>
+  <li>
+   Also Available to ride horse on the beach where you can get the best pictures for the loveliest memories for extra price, contact us for more information
+  </li>
+ </ul>
+ <h3>
+  Departure time &amp; Return
+ </h3>
+ <ul>
+  <li>
+   This trip available 2 times a day at different times
+  </li>
+  <li>
+   At 09:00 am till 11:00 am
+  </li>
+  <li class="toggle-content__label-placeholder">
+   At 14:00 pm till 16:00 pm
+   <br/>
+   <h3>
+    What to bring
+   </h3>
+   <p>
+    Sunglasses &amp; Comfortable clothes &amp; Scarf
+   </p>
+   <h3>
+    Tour price
+   </h3>
+  </li>
+  <li>
+   1 hour  20€
+  </li>
+  <li>
+   2 hours 35€
+  </li>
+  <li>
+   Also Available to ride horse on the beach, contact us for more information
+  </li>
+ </ul>
+ <!--  Tour Included/Excluded -->
+ <div class="content-product-item tour-included-excluded-wrapper" id="tour-included-excluded">
+  <h2 class="heading-tour-included-excluded">
+   Included/Excluded
+  </h2>
+  <div class="tour-included-excluded-content">
+   <ul class="tour-included">
+    <li class="item-tour-included">
+     Transfer from your hotel
+    </li>
+    <li class="item-tour-included">
+     Tour guide
+    </li>
+    <li class="item-tour-included">
+     Entrance fee
+    </li>
+   </ul>
+   <ul class="tour-excluded">
+    <li class="item-tour-excluded">
+     Personal expenses
+    </li>
+    <li class="item-tour-excluded">
+     drinks
+    </li>
+    <li class="item-tour-excluded">
+     Photo services
+    </li>
+   </ul>
+  </div>
+ </div>
+ <!--  Tour Plan -->
+ <!--  Tour Map -->
+ <!--  Tour Review -->
+</div>
+
+
+<div class="ova-single-product-summary-left">
+ <div data-track="overview" data-v-ccfeac8c="">
+  <section class="activity-overview" data-component="overview" data-v-5726f79d="" data-v-ccfeac8c="" id="activity-overview">
+   <p class="activity-overview__content" data-test-id="activity-overview-content" data-v-5726f79d="">
+    Visit Mount Moses and St. Catherine Monastery in Sinai Desert and hike to the top of Mount Moses. Marvel at the incredible sunrise from the summit. Visit the oldest Christian monastery in the world — St. Catherine Monastery.
+   </p>
+   <h3 data-test-id="activity-overview-content">
+    Description
+   </h3>
+   <ul>
+    <li data-test-id="activity-overview-content">
+     We will pick up you from your hotel in Sharm El Sheikh to Moses Mountain in an air-conditioned bus.
+    </li>
+    <li data-test-id="activity-overview-content">
+     Begin your journey to the holy site where the Prophet Moses received the Ten Commandments once you reach Mount Sinai.Ascend 750 stairs and continue your trek through the night, reaching up to 2,286 meters.
+    </li>
+    <li data-test-id="activity-overview-content">
+     Take some amazing pictures or pray while admiring the sunrise, then start the ascent back down.Visit St. Catherine’s Monastery  from the 5th century, a UNESCO World Heritage Site next. Examine the ancient texts on exhibit at the library.
+    </li>
+    <li data-test-id="activity-overview-content">
+     At the end of this fantastic trip ,you will be dropped off to your hotel in Sharm el Sheikh
+    </li>
+   </ul>
+   <h3>
+    Departure time &amp; Return
+   </h3>
+   <p>
+    Pickup: Around 20:00 (Depending on your hotel location in Sharm el sheikh).
+    <br/>
+    Drop Off: Around 13:30 Pm .
+    <br/>
+    Duration: 17 hours.
+    <br/>
+    Tour available Sunday &amp; Wednesday &amp; Friday
+   </p>
+   <h3>
+    What to bring
+   </h3>
+   <p>
+    Warm clothing &amp; Comfortable shoes &amp; Lunch box &amp; Cash
+   </p>
+   <h3>
+    Tour price
+   </h3>
+   <p>
+    Adult  : 25€ per person.
+    <br/>
+    Child  : from 5 years to 10 years: 15€
+    <br/>
+    Infant : Under 5 years old are Free of charge
+   </p>
+   <h3 class="activity-important-information__title">
+    Know before you go
+   </h3>
+   <ul class="activity-important-information__list good-to-know" data-v-1bea4dbd="">
+    <li data-v-1bea4dbd="">
+     You can have a private trip and guide for extra charge.
+    </li>
+   </ul>
+  </section>
+ </div>
+ <h3 data-track="key-details">
+  May you like :
+ </h3>
+ <h2 class="ova-product-title">
+  https://sharm-voyage.com/product/st-catherine-monastery-and-dahab-city-from-sharm-el-sheikh/
+ </h2>
+ <!--  Tour Included/Excluded -->
+ <div class="content-product-item tour-included-excluded-wrapper" id="tour-included-excluded">
+  <h2 class="heading-tour-included-excluded">
+   Included/Excluded
+  </h2>
+  <div class="tour-included-excluded-content">
+   <ul class="tour-included">
+    <li class="item-tour-included">
+     Transfer from your hotel
+    </li>
+    <li class="item-tour-included">
+     Tour guide
+    </li>
+    <li class="item-tour-included">
+     Torch
+    </li>
+   </ul>
+   <ul class="tour-excluded">
+    <li class="item-tour-excluded">
+     Personal expenses
+    </li>
+   </ul>
+  </div>
+ </div>
+ <!--  Tour Plan -->
+ <!--  Tour Map -->
+ <!--  Tour Review -->
+</div>
+
+
+<div class="ova-single-product-summary-left">
+ <p>
+  Explore Sinai Desert and a Bedouin village on ATV quad and camel ride safari starting in Sharm El Sheikh. Enjoy visiting the mountains of Echo of Sound.Head to the safari world in Sharm El sheikh to see the sunset, visit a Bedouin tent, and enjoy a delicious BBQ dinner.
+ </p>
+ <h3>
+  Description
+ </h3>
+ <ul>
+  <li>
+   Begin your fantastic day with a hotel pickup in Sharm el-Sheikh,head straight to the quad park. Next, get a quick safety demonstration on how to ride your quad bike from your guide.
+  </li>
+  <li>
+   Ride your quad bike through Egypt’s famous Sinai desert and feel the adrenaline rush through your body. Enjoy an optional camel ride if you want to discover the wonders of the desert another way.
+  </li>
+  <li>
+   Next, visit the Bedouin village, where you can enjoy the hospitality of the Bedouins and gain an insight into the everyday lives of real desert dwellers, then have a camel ride and take unforgettable photos.
+  </li>
+  <li>
+   Have BBQ dinner and freshly-baked flatbread paired with Bedouin tea. Watch live entertainment, including a fire show and belly dance between the mountains of the Sinai Desert.
+  </li>
+  <li>
+   At the end of this fantastic trip ,you will be dropped off to your hotel in Sharm el Sheik
+  </li>
+ </ul>
+ <h3>
+  Departure time &amp; Return
+ </h3>
+ <p>
+  Pickup: Around 15:00 (Depending on your hotel location in Sharm el sheikh).
+  <br/>
+  Drop Off: Around 21:00 Pm .
+  <br/>
+  Duration: 5 hours.
+  <br/>
+  Tour available every day
+ </p>
+ <h3>
+  What to bring
+ </h3>
+ <p>
+  Sunglasses &amp; Comfortable clothes &amp; Scarf
+ </p>
+ <h3>
+  Tour price
+ </h3>
+ <ul>
+  <li>
+   Single : 30€
+  </li>
+  <li>
+   Double : 45€
+  </li>
+ </ul>
+ <h3>
+  Notice
+ </h3>
+ <ul>
+  <li class="activity-accordion-item-header">
+   <h6>
+    <span class="activity-accordion-item__title">
+     <span class="activity-accordion-item__title">
+      Not suitable for
+     </span>
+    </span>
+    Pregnant women
+   </h6>
+  </li>
+  <li class="activity-accordion-item__content">
+   <h6>
+    You can add stargazing 10€ per person
+   </h6>
+  </li>
+  <li>
+   <h6>
+    You can do this trip privately  15€
+   </h6>
+  </li>
+ </ul>
+ <!--  Tour Included/Excluded -->
+ <div class="content-product-item tour-included-excluded-wrapper" id="tour-included-excluded">
+  <h2 class="heading-tour-included-excluded">
+   Included/Excluded
+  </h2>
+  <div class="tour-included-excluded-content">
+   <ul class="tour-included">
+    <li class="item-tour-included">
+     Transfer from your hotel
+    </li>
+    <li class="item-tour-included">
+     Tour guide
+    </li>
+    <li class="item-tour-included">
+     Visit Bedouin villge
+    </li>
+    <li class="item-tour-included">
+     Ride on ATV quad bike
+    </li>
+    <li class="item-tour-included">
+     Camel riding
+    </li>
+    <li class="item-tour-included">
+     Bedouin tea
+    </li>
+    <li class="item-tour-included">
+     Bedouin BBQ dinner
+    </li>
+   </ul>
+   <ul class="tour-excluded">
+    <li class="item-tour-excluded">
+     Personal expenses
+    </li>
+    <li class="item-tour-excluded">
+     Gratuities
+    </li>
+    <li class="item-tour-excluded">
+     Photo services
+    </li>
+   </ul>
+  </div>
+ </div>
+ <!--  Tour Plan -->
+ <!--  Tour Map -->
+ <!--  Tour Review -->
+</div>
+
+
+<div class="ova-single-product-summary-left">
+ <div data-track="overview" data-v-2007c7c8="">
+  <section class="activity-overview" data-component="overview" data-v-2007c7c8="" data-v-5726f79d="" id="activity-overview">
+   <p class="activity-overview__content" data-test-id="activity-overview-content" data-v-5726f79d="">
+    Israel – Jerusalem From Sharm El Sheikh Visit the Dead Sea and the city of Jerusalem on a day tour from Sharm El Sheikh.
+   </p>
+  </section>
+ </div>
+ <h3 data-track="key-details">
+  Description
+ </h3>
+ <ul>
+  <li>
+   Start with pickup from your hotel and travel in a fully air-conditioned bus to Taba, where you will cross the border into Israel. Make the first stop of the day at the Dead Sea, the lowest point of elevation on Earth. While here swim in the salty water which enables you to float.
+  </li>
+  <li>
+   Next, discover Bethlehem and the Church of the Nativity. Wander its numerous alleyways with small shops. Enjoy a delicious lunch in one of the on-site restaurants before making your way to Jerusalem.
+  </li>
+  <li>
+   Once in the city, enjoy the view from the Mount of Olives. Visit notable local landmarks including the Wailing Wall and Temple Mount. After strolling across the Arab market on Via Dolorosa, you can visit the Church of the Holy Sepulcher. Finally, be transferred back to your hotel from Israel – Jerusalem to Sharm El Sheikh.
+  </li>
+ </ul>
+ <div class="toggle-content__label-placeholder" data-v-1740b522="">
+  <h3>
+   Departure time &amp; Return
+  </h3>
+  <p>
+   Pickup: Around 21:00 pm (Depending on your hotel location in Sharm el sheikh).
+   <br/>
+   Drop Off: Around 00:30 am .
+   <br/>
+   Duration: 1 Day
+   <br/>
+   Tour available every Monday and Thursday.
+  </p>
+  <h3 class="activity-important-information__title">
+   What to bring
+  </h3>
+  <section class="toggle-content" data-v-1740b522="" data-v-1bea4dbd="">
+   <div class="toggle-content__content" data-v-1740b522="">
+    Your Passport &amp; comfortable clothes &amp; lunch box
+   </div>
+   <div data-v-1740b522="">
+    <h3>
+     Tour price
+    </h3>
+    <p>
+     Adult  : 130$ per person.
+     <br/>
+     Child  : from 5 years to 10 years: 120$
+     <br/>
+     Infant : Under 5 years old are Free of charge.
+    </p>
+   </div>
+  </section>
+ </div>
+ <!--  Tour Included/Excluded -->
+ <div class="content-product-item tour-included-excluded-wrapper" id="tour-included-excluded">
+  <h2 class="heading-tour-included-excluded">
+   Included/Excluded
+  </h2>
+  <div class="tour-included-excluded-content">
+   <ul class="tour-included">
+    <li class="item-tour-included">
+     Transfer from your hotel
+    </li>
+    <li class="item-tour-included">
+     Tour guide
+    </li>
+    <li class="item-tour-included">
+     Entrance fees
+    </li>
+    <li class="item-tour-included">
+     Lunch
+    </li>
+   </ul>
+   <ul class="tour-excluded">
+    <li class="item-tour-excluded">
+     Personal expenses
+    </li>
+    <li class="item-tour-excluded">
+     drinks
+    </li>
+   </ul>
+  </div>
+ </div>
+ <!--  Tour Plan -->
+ <!--  Tour Map -->
+ <!--  Tour Review -->
+</div>
+
+
+<div class="ova-single-product-summary-left">
+ <div data-track="overview" data-v-2007c7c8="">
+  <section class="activity-overview" data-component="overview" data-v-2007c7c8="" data-v-5726f79d="" id="activity-overview">
+   <p class="activity-overview__content" data-test-id="activity-overview-content" data-v-5726f79d="">
+    Book a ticket to explore the biggest water park in Sharm El Sheikh Aqua Park Albatros with over 38 different slides and a wave machine. Have a hassle-free experience with complimentary round trip transportation from your hotel in the city.
+   </p>
+  </section>
+ </div>
+ <h3 data-track="key-details">
+  Description
+ </h3>
+ <ul>
+  <li data-track="key-details">
+   Spend a fantastically fun day with the whole family at the Aqua Park in Sharm El Sheikh. Your driver will pick you up from your hotel in an air-conditioned vehicle at approximately 9:30 AM and give you your entrance tickets to Aqua Park Albatros.
+  </li>
+  <li data-track="key-details">
+   Once you arrive, the fun begins. Enjoy a selection of over 38 different slides and a wave machine. If you’re an adrenaline junkie, try out the Twisters, the multi-slide, the free-fall, and other thrilling rides. Or, just relax in the pools and go sunbathing. There’s sure to be something for everyone, including a dolphin slide in the kid-friendly zone.
+  </li>
+  <li data-track="key-details">
+   The park is located within the grounds of a large hotel complex, so there are multiple amenities available if required, like fast-food restaurants, buffet-style lunches, and many drinks outlets. After a day of fun, you’ll be picked up again and taken to your hotel for 5:00 PM.
+  </li>
+ </ul>
+ <div data-track="key-details" data-v-2007c7c8="">
+  <h3>
+   Departure time &amp; Return
+  </h3>
+  <p>
+   Pickup: Around 9:30 am (Depending on your hotel location in Sharm el sheikh).
+   <br/>
+   Drop Off: Around 17:00 Pm .
+   <br/>
+   Duration: 8 hours.
+   <br/>
+   Tour available every day.
+  </p>
+  <h3>
+   What to bring
+  </h3>
+  <p>
+   Towels &amp; swimming clothes &amp; sun cream
+  </p>
+  <h3>
+   Tour price
+  </h3>
+  <p>
+   Adult  : 40€ per person.
+   <br/>
+   Child  : from 6 years to 12 years: 25€
+   <br/>
+   Infant : Under 6 years old are Free of charge.
+  </p>
+  <h3 class="activity-important-information__title">
+   Know before you go
+  </h3>
+  <section class="toggle-content" data-v-1740b522="" data-v-1bea4dbd="">
+   <ul>
+    <li>
+     For open buffet lunch and snacks 10€
+    </li>
+   </ul>
+  </section>
+ </div>
+ <!--  Tour Included/Excluded -->
+ <div class="content-product-item tour-included-excluded-wrapper" id="tour-included-excluded">
+  <h2 class="heading-tour-included-excluded">
+   Included/Excluded
+  </h2>
+  <div class="tour-included-excluded-content">
+   <ul class="tour-included">
+    <li class="item-tour-included">
+     Transfer from your hotel
+    </li>
+    <li class="item-tour-included">
+     Entrance fees
+    </li>
+    <li class="item-tour-included">
+     Soft drinks
+    </li>
+   </ul>
+   <ul class="tour-excluded">
+    <li class="item-tour-excluded">
+     Open buffet lunch and snacks 10$
+    </li>
+   </ul>
+  </div>
+ </div>
+ <!--  Tour Plan -->
+ <!--  Tour Map -->
+ <!--  Tour Review -->
+</div>
+
+
+<div class="ova-single-product-summary-left">
+ <p>
+  Your adventure begins when you spend a day in a Luxury Sailing Boat, excursion in the Red Sea in a unique way, deluxe seafood menu, super snorkeling on the most luxury Sina Dream Yacht Trip.
+ </p>
+ <div class="gdlr-core-pbf-wrapper" id="detail">
+  <div class="gdlr-core-pbf-wrapper-content gdlr-core-js">
+   <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
+    <div class="gdlr-core-pbf-column gdlr-core-column-60 gdlr-core-column-first">
+     <div class="gdlr-core-pbf-column-content-margin gdlr-core-js">
+      <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js">
+       <div class="gdlr-core-pbf-element">
+        <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align">
+         <div class="gdlr-core-text-box-item-content">
+          <p>
+           We’ll pick you up from your hotel to the boat. You will receive your snorkeling equipment, and you will prepare yourself to do the first snorkeling spot, where you can explore the coral reefs and see magnificent and colorful fish.
+          </p>
+          <p>
+           After the first spot, lunch will be served, and relax on the boat. After lunch, stop two times for snorkeling in the different areas, where you can admire the natural reefs, beautiful corals, and colorful fish.
+          </p>
+         </div>
+        </div>
+       </div>
+       <div class="gdlr-core-pbf-element">
+        <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align">
+         <div class="gdlr-core-text-box-item-content">
+          <ul class="vcs-highlights">
+           <li>
+            Sina Dream Yacht Trip
+           </li>
+           <li>
+            Two stops for snorkeling in the different areas.
+           </li>
+           <li>
+            Sail through the Red Sea on a fantastic snorkeling boat.
+           </li>
+           <li>
+            Lunch and drinks on the boat (open buffet).
+           </li>
+          </ul>
+         </div>
+        </div>
+       </div>
+       <div class="gdlr-core-pbf-element">
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="gdlr-core-pbf-wrapper">
+  <div class="gdlr-core-pbf-wrapper-content gdlr-core-js">
+   <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
+    <div class="gdlr-core-pbf-column gdlr-core-column-30 gdlr-core-column-first">
+     <div class="gdlr-core-pbf-column-content-margin gdlr-core-js">
+      <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js">
+       <div class="gdlr-core-pbf-element">
+        <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr">
+         <div class="gdlr-core-title-item-title-wrap">
+          <h3 class="gdlr-core-title-item-title gdlr-core-skin-title">
+           Departure Time
+          </h3>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="gdlr-core-pbf-column gdlr-core-column-30">
+     <div class="gdlr-core-pbf-column-content-margin gdlr-core-js">
+      <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js">
+       <div class="gdlr-core-pbf-element">
+        <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align">
+         <div class="gdlr-core-text-box-item-content">
+          <p>
+           Pick up time 8:00 AM Return at 16:30 PM
+          </p>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="gdlr-core-pbf-column gdlr-core-column-30 gdlr-core-column-first">
+     <div class="gdlr-core-pbf-column-content-margin gdlr-core-js">
+      <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js">
+       <div class="gdlr-core-pbf-element">
+        <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr">
+         <div class="gdlr-core-title-item-title-wrap">
+          <h3 class="gdlr-core-title-item-title gdlr-core-skin-title">
+           Departure &amp; Return
+          </h3>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="gdlr-core-pbf-column gdlr-core-column-30">
+     <div class="gdlr-core-pbf-column-content-margin gdlr-core-js">
+      <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js">
+       <div class="gdlr-core-pbf-element">
+        <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align">
+         <div class="gdlr-core-text-box-item-content">
+          <div class="_27zRYYRP">
+           <div class="DrjyGw-P _26S7gyB4 _2nPM5Opx">
+            Pickup: Around 08:00 (Depending on your hotel location in Sharm el sheikh).
+            <br/>
+            Drop Off: Around 17:00 Pm .
+            <br/>
+            Duration: 8 hours.
+            <br/>
+            Tour available Everyday
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="gdlr-core-pbf-column gdlr-core-column-30 gdlr-core-column-first">
+     <div class="gdlr-core-pbf-column-content-margin gdlr-core-js">
+      <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js">
+       <div class="gdlr-core-pbf-element">
+        <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr">
+         <div class="gdlr-core-title-item-title-wrap">
+          <h3 class="gdlr-core-title-item-title gdlr-core-skin-title">
+           Price Includes
+          </h3>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="gdlr-core-pbf-column gdlr-core-column-30">
+     <div class="gdlr-core-pbf-column-content-margin gdlr-core-js">
+      <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js">
+       <div class="gdlr-core-pbf-element">
+        <div class="gdlr-core-icon-list-item gdlr-core-item-pdlr gdlr-core-item-pdb clearfix gdlr-core-left-align gdlr-core-style-1">
+         <ul>
+          <li class="gdlr-core-skin-divider clearfix">
+           <i class="gdlr-core-icon-list-icon icon_check">
+           </i>
+           <div class="gdlr-core-icon-list-content-wrap">
+            <span class="gdlr-core-icon-list-content">
+             Transfers from/to your hotel
+            </span>
+           </div>
+          </li>
+          <li class="gdlr-core-skin-divider clearfix">
+           <i class="gdlr-core-icon-list-icon icon_check">
+           </i>
+           <div class="gdlr-core-icon-list-content-wrap">
+            <span class="gdlr-core-icon-list-content">
+             Tour Guide
+            </span>
+           </div>
+          </li>
+          <li class="gdlr-core-skin-divider clearfix">
+           <i class="gdlr-core-icon-list-icon icon_check">
+           </i>
+           <div class="gdlr-core-icon-list-content-wrap">
+            <span class="gdlr-core-icon-list-content">
+             Lunch &amp; Soft and Hot drinks all day
+            </span>
+           </div>
+          </li>
+          <li class="gdlr-core-skin-divider clearfix">
+           <i class="gdlr-core-icon-list-icon icon_check">
+           </i>
+           <div class="gdlr-core-icon-list-content-wrap">
+            <span class="gdlr-core-icon-list-content">
+             National Park fees
+            </span>
+           </div>
+          </li>
+         </ul>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="gdlr-core-pbf-element">
+     <div class="gdlr-core-divider-item gdlr-core-divider-item-normal gdlr-core-item-pdlr gdlr-core-center-align">
+      <div class="gdlr-core-divider-line gdlr-core-skin-divider">
+      </div>
+     </div>
+    </div>
+    <div class="gdlr-core-pbf-column gdlr-core-column-30 gdlr-core-column-first">
+     <div class="gdlr-core-pbf-column-content-margin gdlr-core-js">
+      <div class="gdlr-core-pbf-background-wrap">
+      </div>
+      <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js">
+       <div class="gdlr-core-pbf-element">
+        <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr">
+         <div class="gdlr-core-title-item-title-wrap">
+          <h3 class="gdlr-core-title-item-title gdlr-core-skin-title">
+           Price Excludes
+          </h3>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="gdlr-core-pbf-column gdlr-core-column-30">
+     <div class="gdlr-core-pbf-column-content-margin gdlr-core-js">
+      <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js">
+       <div class="gdlr-core-pbf-element">
+        <div class="gdlr-core-icon-list-item gdlr-core-item-pdlr gdlr-core-item-pdb clearfix gdlr-core-left-align gdlr-core-style-1">
+         <ul>
+          <li class="gdlr-core-skin-divider clearfix">
+           <i class="gdlr-core-icon-list-icon icon_close">
+           </i>
+           <div class="gdlr-core-icon-list-content-wrap">
+            <span class="gdlr-core-icon-list-content">
+             Personal expenses
+            </span>
+           </div>
+          </li>
+          <li class="gdlr-core-skin-divider clearfix">
+           <i class="gdlr-core-icon-list-icon icon_close">
+           </i>
+           <div class="gdlr-core-icon-list-content-wrap">
+            <span class="gdlr-core-icon-list-content">
+             Gratuities
+            </span>
+           </div>
+          </li>
+          <li class="gdlr-core-skin-divider clearfix">
+           <i class="gdlr-core-icon-list-icon icon_close">
+           </i>
+           <div class="gdlr-core-icon-list-content-wrap">
+            <span class="gdlr-core-icon-list-content">
+             DVD or photos
+            </span>
+           </div>
+          </li>
+          <li class="gdlr-core-skin-divider clearfix">
+           <i class="gdlr-core-icon-list-icon icon_close">
+           </i>
+           <div class="gdlr-core-icon-list-content-wrap">
+            <span class="gdlr-core-icon-list-content">
+             Snorkeling equipment (From 2 dollars)
+            </span>
+           </div>
+          </li>
+         </ul>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="gdlr-core-pbf-element">
+     <div class="gdlr-core-divider-item gdlr-core-divider-item-normal gdlr-core-item-pdlr gdlr-core-center-align">
+      <div class="gdlr-core-divider-line gdlr-core-skin-divider">
+      </div>
+     </div>
+    </div>
+    <div class="gdlr-core-pbf-column gdlr-core-column-30 gdlr-core-column-first">
+     <div class="gdlr-core-pbf-column-content-margin gdlr-core-js">
+      <div class="gdlr-core-pbf-background-wrap">
+      </div>
+      <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js">
+       <div class="gdlr-core-pbf-element">
+        <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr">
+         <div class="gdlr-core-title-item-title-wrap">
+          <h3 class="gdlr-core-title-item-title gdlr-core-skin-title">
+           What to bring
+          </h3>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="gdlr-core-pbf-column gdlr-core-column-30">
+     <div class="gdlr-core-pbf-column-content-margin gdlr-core-js">
+      <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js">
+       <div class="gdlr-core-pbf-element">
+        <div class="gdlr-core-icon-list-item gdlr-core-item-pdlr gdlr-core-item-pdb clearfix gdlr-core-left-align gdlr-core-style-1">
+         <ul>
+          <li class="gdlr-core-skin-divider clearfix">
+           <i class="gdlr-core-icon-list-icon arrow_carrot-right">
+           </i>
+           <div class="gdlr-core-icon-list-content-wrap">
+            <span class="gdlr-core-icon-list-content">
+             Towel
+            </span>
+           </div>
+          </li>
+          <li class="gdlr-core-skin-divider clearfix">
+           <i class="gdlr-core-icon-list-icon arrow_carrot-right">
+           </i>
+           <div class="gdlr-core-icon-list-content-wrap">
+            <span class="gdlr-core-icon-list-content">
+             Swimsuit
+            </span>
+           </div>
+          </li>
+          <li class="gdlr-core-skin-divider clearfix">
+           <i class="gdlr-core-icon-list-icon arrow_carrot-right">
+           </i>
+           <div class="gdlr-core-icon-list-content-wrap">
+            <span class="gdlr-core-icon-list-content">
+             Sunglasses and Sun hat
+            </span>
+           </div>
+          </li>
+          <li class="gdlr-core-skin-divider clearfix">
+           <i class="gdlr-core-icon-list-icon arrow_carrot-right">
+           </i>
+           <div class="gdlr-core-icon-list-content-wrap">
+            <span class="gdlr-core-icon-list-content">
+             Sun cream
+            </span>
+           </div>
+          </li>
+          <li class="gdlr-core-skin-divider clearfix">
+           <i class="gdlr-core-icon-list-icon arrow_carrot-right">
+           </i>
+           <div class="gdlr-core-icon-list-content-wrap">
+            <span class="gdlr-core-icon-list-content">
+             Camera
+            </span>
+           </div>
+          </li>
+         </ul>
+         <h3>
+          Tour price
+         </h3>
+         <ul>
+          <li>
+           Adult  : 65€ per person.
+          </li>
+          <li>
+           Child  : from 5 years to 10 years: 35€
+          </li>
+          <li>
+           Infant : Under 5 years old are Free of charge.
+          </li>
+          <li>
+           You can add intro dive 15€
+          </li>
+         </ul>
+         <h3>
+          May you like :
+         </h3>
+         <blockquote class="wp-embedded-content" data-secret="WC64PklR9l">
+          <p>
+           <a href="https://sharm-voyage.com/product/white-island-ras-mohammed-luxury-boat-trip-2/">
+            WHITE ISLAND RAS MOHAMMED LUXURY BOAT TRIP
+           </a>
+          </p>
+         </blockquote>
+         <p>
+          <iframe class="wp-embedded-content" data-secret="WC64PklR9l" frameborder="0" height="338" marginheight="0" marginwidth="0" sandbox="allow-scripts" scrolling="no" security="restricted" src="https://sharm-voyage.com/product/white-island-ras-mohammed-luxury-boat-trip-2/embed/#?secret=3OsFhc5lSo#?secret=WC64PklR9l" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" title="“WHITE ISLAND RAS MOHAMMED LUXURY BOAT TRIP” — Sharm Voyage" width="600">
+          </iframe>
+         </p>
+         <p>
+         </p>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <!--  Tour Included/Excluded -->
+ <!--  Tour Plan -->
+ <!--  Tour Map -->
+ <!--  Tour Review -->
+</div>
+
+
+<div class="ova-single-product-summary-left">
+ <h3>
+  Program 1 Turkish Bath for 60 minutes
+ </h3>
+ <p>
+  Turkish Bath Hammam from Sharm El Sheikh :
+ </p>
+ <p>
+  Sauna
+ </p>
+ <p>
+  steam room
+ </p>
+ <p>
+  Turkish bath (foam, peeling, scrub, face mask, hot drink)
+ </p>
+ <p>
+  10 minutes foam massage
+ </p>
+ <p>
+  Jacuzzi
+ </p>
+ <p>
+  Program available every day.
+ </p>
+ <p>
+  Price : 30€
+ </p>
+ <h3>
+  Program 2
+ </h3>
+ <p>
+  Turkish Bath For 60 minutes
+ </p>
+ <p>
+  Sauna
+ </p>
+ <p>
+  steam room
+ </p>
+ <p>
+  Turkish bath (foam, peeling, scrub, face mask, hot drink)
+ </p>
+ <p>
+  10 minutes foam massage
+ </p>
+ <p>
+  30 minutes massage
+ </p>
+ <p>
+  Jacuzzi
+ </p>
+ <p>
+  Program available every day.
+ </p>
+ <p>
+  Price : 40€
+ </p>
+ <p>
+ </p>
+ <!--  Tour Included/Excluded -->
+ <div class="content-product-item tour-included-excluded-wrapper" id="tour-included-excluded">
+  <h2 class="heading-tour-included-excluded">
+   Included/Excluded
+  </h2>
+  <div class="tour-included-excluded-content">
+   <ul class="tour-included">
+    <li class="item-tour-included">
+     Transfer from your hotel
+    </li>
+   </ul>
+   <ul class="tour-excluded">
+    <li class="item-tour-excluded">
+     Personal expenses
+    </li>
+   </ul>
+  </div>
+ </div>
+ <!--  Tour Plan -->
+ <!--  Tour Map -->
+ <!--  Tour Review -->
+</div>
+
+
+<div class="ova-single-product-summary-left">
+ <div data-track="overview" data-v-2007c7c8="">
+  <section class="activity-overview" data-component="overview" data-v-2007c7c8="" data-v-5726f79d="" id="activity-overview">
+   <p class="activity-overview__content" data-test-id="activity-overview-content" data-v-5726f79d="">
+    Cairo by Plane one Day Trip from Sharm El Sheikh Enjoy a tour to discover some of this historic city’s most amazing sights and landmarks. Visit the iconic Great Pyramids and Great Sphinx, explore the Egyptian Museum, and visit the  Bazaar.
+   </p>
+  </section>
+ </div>
+ <h3 data-track="key-details">
+  Description
+ </h3>
+ <ul>
+  <li>
+   We will pick up you from your hotel in Sharm El Sheikh for a transfer to Sharm El Sheikh Airport. Catch a flight to Cairo and be greeted by another representative at the Cairo Airport.
+  </li>
+  <li>
+   Follow your Egyptologist guide to the great pyramid of Giza (if add-on selected), the only existing wonder of the 7 wonders of the ancient world. At the Giza plateau, see the great pyramid of Khufu, known as Cheops, and also the pyramid of Chefren, the pyramid of Mykerinus, the valley temple of Khefren, and the iconic Great Sphinx. This amazing complex of structures dates back to almost 5,000 years ago.
+  </li>
+  <li>
+   From there, be taken to the Museum of Egyptian Antiquities, which houses around 150,000 artifacts that date thousands of years to ancient Egyptian civilization. This is considered the largest and most precious collection of Egyptian art in the world. Take your chance to admire the incredible treasures of the boy-king Tutankhamun.
+  </li>
+  <li>
+   After the museum, have the chance to wander in the oldest bazaar in the middle east, where you can feel the atmosphere of living in Islamic Cairo hundreds of years ago.At the end of the day, be transferred to Cairo Airport for a flight back to Sharm El Sheikh.
+  </li>
+ </ul>
+ <h3>
+  Departure time &amp; Return
+ </h3>
+ <p>
+  Pickup: Around 4:30 am (Depending on your hotel location in Sharm el sheikh).
+  <br/>
+  Drop Off: Around 21:30 am .
+  <br/>
+  Duration: 18 Hours
+  <br/>
+  Tour available every day.
+ </p>
+ <h3 class="activity-important-information__title">
+  What to bring
+ </h3>
+ <section class="toggle-content" data-v-1740b522="" data-v-1bea4dbd="">
+  <div class="toggle-content__content" data-v-1740b522="">
+   Your Passport &amp; comfortable clothes &amp; lunch box
+  </div>
+  <div data-v-1740b522="">
+   <h3>
+    Tour price
+   </h3>
+   <p>
+    Adult  : 195€ per person.
+    <br/>
+    Child  : from 2 years to 10 years: 185€
+    <br/>
+    Infant : Under 2 years old are Free of charge.
+   </p>
+  </div>
+ </section>
+ <div class="toggle-content__label-placeholder" data-v-1740b522="">
+  <h3 class="activity-important-information__title">
+   Know before you go
+  </h3>
+  <section class="toggle-content" data-v-1740b522="" data-v-1bea4dbd="">
+   <div class="toggle-content__content" data-v-1740b522="">
+    <ul class="activity-important-information__list good-to-know" data-v-1bea4dbd="">
+     <li class="activity-important-information__item" data-v-1bea4dbd="">
+      A visa is necessary for visiting Cairo.
+     </li>
+     <li data-v-1bea4dbd="">
+      Also You can have a private trip in Cairo for extra charge.
+     </li>
+    </ul>
+   </div>
+  </section>
+ </div>
+ <!--  Tour Included/Excluded -->
+ <div class="content-product-item tour-included-excluded-wrapper" id="tour-included-excluded">
+  <h2 class="heading-tour-included-excluded">
+   Included/Excluded
+  </h2>
+  <div class="tour-included-excluded-content">
+   <ul class="tour-included">
+    <li class="item-tour-included">
+     Transfer from your hotel
+    </li>
+    <li class="item-tour-included">
+     Entrance fees
+    </li>
+    <li class="item-tour-included">
+     Tour guide
+    </li>
+    <li class="item-tour-included">
+     Egyptian Museum tour
+    </li>
+    <li class="item-tour-included">
+     Pyramids and Sphinx visit
+    </li>
+    <li class="item-tour-included">
+     Lunch
+    </li>
+   </ul>
+   <ul class="tour-excluded">
+    <li class="item-tour-excluded">
+     Drinks
+    </li>
+    <li class="item-tour-excluded">
+     Personal expenses
+    </li>
+    <li class="item-tour-excluded">
+     Optional 20-minute cruise Nile 15$
+    </li>
+    <li class="item-tour-excluded">
+     Visa
+    </li>
+   </ul>
+  </div>
+ </div>
+ <!--  Tour Plan -->
+ <!--  Tour Map -->
+ <!--  Tour Review -->
+</div>
+
+
+<div class="ova-single-product-summary-left">
+ <div data-track="overview" data-v-2007c7c8="">
+  <section class="activity-overview" data-component="overview" data-v-2007c7c8="" data-v-5726f79d="" id="activity-overview">
+   <p class="activity-overview__content" data-test-id="activity-overview-content" data-v-5726f79d="">
+    Visit St. Catherine Monastery and Dahab City on day trip for Sharm el Sheikh, Visit Dahab on the Red Sea for lunch before returning to your hotel in Sharm el Sheikh.
+   </p>
+  </section>
+ </div>
+ <h3 data-track="key-details">
+  Description
+ </h3>
+ <ul>
+  <li>
+   We will pick you up by air conditioned bus from Sharm , and then you will be transferred to St. Catherine to visit St. Catherine Monastery and Dahab 150 km northwest Sharm el Sheikh and located between the St. Catherine’s mounts and Moses Mount which is the oldest monastery of Christianity. It is an Orthodox Greek monastery within its amazing walls rests a citadel like no other, incredibly rich in important religious and historical structures.
+  </li>
+  <li>
+   Among its treasures is a library of ancient manuscripts and icons second only to the Vatican’s itself, and a 5th century church reputed to lie directly on the site of the Burning Bush.
+  </li>
+  <li>
+   After that head to Dahab, the Flower Power City in the Red Sea, for a city tour and shopping tours in Dahab. Have lunch at a local restaurant then we will drive you back to Sharm .
+  </li>
+ </ul>
+ <h3>
+  Departure time &amp; Return
+ </h3>
+ <p>
+  Pickup: Around 6:00 am (Depending on your hotel location in Sharm el sheikh).
+  <br/>
+  Drop Off: Around 15:00 pm .
+  <br/>
+  Duration: 8 Hours
+  <br/>
+  Tour available every Saturday &amp; Monday &amp; Thursday.
+ </p>
+ <h3 class="activity-important-information__title">
+  What to bring
+ </h3>
+ <section class="toggle-content" data-v-1740b522="" data-v-1bea4dbd="">
+  <div class="toggle-content__content" data-v-1740b522="">
+   Your Passport &amp; comfortable and worm clothes &amp; lunch box &amp; cash
+  </div>
+  <div data-v-1740b522="">
+   <h3>
+    Tour price
+   </h3>
+   <p>
+    Adult  : 25€ per person.
+    <br/>
+    Child  : from 5 years to 10 years: 15€
+    <br/>
+    Infant : Under 5 years old are Free of charge.
+   </p>
+   <h3 class="activity-important-information__title">
+    Know before you go
+   </h3>
+   <ul class="activity-important-information__list good-to-know" data-v-1bea4dbd="">
+    <li data-v-1bea4dbd="">
+     You can have a private trip and guide for extra charge.
+    </li>
+   </ul>
+  </div>
+ </section>
+ <!--  Tour Included/Excluded -->
+ <div class="content-product-item tour-included-excluded-wrapper" id="tour-included-excluded">
+  <h2 class="heading-tour-included-excluded">
+   Included/Excluded
+  </h2>
+  <div class="tour-included-excluded-content">
+   <ul class="tour-included">
+    <li class="item-tour-included">
+     Transfer from your hotel
+    </li>
+    <li class="item-tour-included">
+     Tour guide
+    </li>
+    <li class="item-tour-included">
+     Entrance fees
+    </li>
+    <li class="item-tour-included">
+     Lunch
+    </li>
+   </ul>
+   <ul class="tour-excluded">
+    <li class="item-tour-excluded">
+     Drinks
+    </li>
+    <li class="item-tour-excluded">
+     Personal expenses
+    </li>
+   </ul>
+  </div>
+ </div>
+ <!--  Tour Plan -->
+ <!--  Tour Map -->
+ <!--  Tour Review -->
+</div>
+
+
+<div class="ova-single-product-summary-left">
+    <p>
+        Лодка со стеклянным дном из Шарм-эль-Шейха — наслаждайтесь удивительной подводной жизнью Красного моря, не
+        намокнув! За один час вы увидите различные виды рыб и яркие краски коралловых рифов. Возможно, вы даже найдете
+        рыбку Немо! После возвращения насладитесь бесплатным безалкогольным напитком, любуясь видами с верхней палубы
+        лодки.
+    </p>
+    <h3>
+        Время отправления и возвращения
+    </h3>
+    <ul>
+        <li>
+            Экскурсия проводится 3 раза в день в разное время
+        </li>
+        <li>
+            С 10:00 до 12:00
+        </li>
+        <li>
+            С 11:00 до 13:00
+        </li>
+        <li class="toggle-content__label-placeholder">
+            С 14:00 до 16:00
+        </li>
+        <li class="toggle-content__label-placeholder">
+            Экскурсия доступна каждый день
+        </li>
+    </ul>
+    <h3>
+        Что взять с собой
+    </h3>
+    <p>
+        Солнцезащитные очки, удобная одежда,
+        <span class="gdlr-core-icon-list-content">
+            камера
+        </span>
+        и вода
+    </p>
+    <h3>
+        Стоимость экскурсии
+    </h3>
+    <p>
+        Взрослый: 15€ с человека.<br />
+        Ребенок (от 5 до 10 лет): 10€<br />
+        Младенец (до 5 лет): бесплатно
+    </p>
+    <!-- Включено/Не включено -->
+    <div class="content-product-item tour-included-excluded-wrapper" id="tour-included-excluded">
+        <h2 class="heading-tour-included-excluded">
+            Включено/Не включено
+        </h2>
+        <div class="tour-included-excluded-content">
+            <ul class="tour-included">
+                <li class="item-tour-included">
+                    Трансфер из отеля
+                </li>
+                <li class="item-tour-included">
+                    Входные билеты
+                </li>
+                <li class="item-tour-included">
+                    1 безалкогольный напиток
+                </li>
+            </ul>
+            <ul class="tour-excluded">
+                <li class="item-tour-excluded">
+                    Личные расходы
+                </li>
+                <li class="item-tour-excluded">
+                    Фотоуслуги
+                </li>
+            </ul>
+        </div>
+    </div>
+    <!-- План экскурсии -->
+    <!-- Карта экскурсии -->
+    <!-- Отзывы об экскурсии -->
+</div>

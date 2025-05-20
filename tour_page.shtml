@@ -35,7 +35,7 @@
         <div class="swiper-scrollbar"></div>
     </div>
 
-    <!--#include file="$page_path/page.html"-->
+    <!--#include file="$page_path/page_ru.html"-->
     
     <!--#include file="contact.html"-->
 
