@@ -7,27 +7,58 @@
   border-radius: 8px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
+.ova-single-product-summary-left h5, .ova-single-product-summary-left .ova-tour-review, .ova-single-product-summary-left review_form_wrapper {
+  display: none;
+  margin: 0;
+  padding: 0;
+  height: 0;
+  overflow: hidden;
+}
+.ova-single-product-summary-left .content-product-item {
+  margin: 0;
+  padding: 0;
+  height: auto;
+}
+.ova-single-product-summary-left .content-product-item.ova-tour-review {
+  display: none;
+  margin: 0;
+  padding: 0;
+  height: 0;
+  overflow: hidden;
+}
+.ova-single-product-summary-left .content-product-item.tour-included-excluded-wrapper {
+  margin: 0;
+  padding: 0;
+}
+.ova-single-product-summary-left .content-product-item.tour-included-excluded-wrapper .tour-included-excluded-content {
+  display: none;
+}
 .ova-single-product-summary-left h2 {
+  font-size: 24px;
   color: #2c3e50;
   border-bottom: 2px solid #3498db;
   padding-bottom: 10px;
   margin-bottom: 20px;
 }
-.ova-single-product-summary-left h3 {
+.ova-single-product-summary-left h3, .ova-single-product-summary-left h4 {
+  font-size: 22px;
   color: #34495e;
   margin-top: 20px;
   margin-bottom: 10px;
 }
 .ova-single-product-summary-left p {
+  font-size: 18px;
   margin: 10px 0;
   color: #333;
 }
 .ova-single-product-summary-left ul {
+  font-size: 18px;
   list-style-type: none;
   padding: 0;
   margin: 10px 0;
 }
 .ova-single-product-summary-left li {
+  font-size: 18px;
   padding: 8px 0;
   position: relative;
   padding-left: 30px;
@@ -70,57 +101,6 @@
 .ova-single-product-summary-left .tour-excluded li:before {
   content: "✖ ";
   color: #c0392b;
-}
-
-.swiper-cross {
-  width: 50px;
-  height: 50px;
-  position: absolute;
-  top: 5%;
-  right: 10%;
-  cursor: pointer;
-  z-index: 2;
-}
-
-.swiper-cross::before {
-  position: absolute;
-  content: "✖";
-  color: #c0392b;
-}
-
-.swiper-wrapper {
-  padding: 0 50px;
-  display: grid;
-  box-sizing: border-box;
-  grid-gap: 20px;
-}
-
-.swiper-wrapper_flex {
-  display: flex;
-  padding: 0;
-  grid-gap: 0;
-}
-
-.swiper-slide {
-  cursor: pointer;
-  background-repeat: no-repeat;
-  background-position: center;
-}
-
-.swiper-wrapper_flex > .swiper-slide {
-  cursor: initial;
-}
-
-.swiper-slide:nth-child(3n+1) {
-  grid-column: 1;
-}
-
-.swiper-slide:nth-child(3n+2) {
-  grid-column: 2;
-}
-
-.swiper-slide:nth-child(3n+3) {
-  grid-column: 3;
 }
 
 @media (min-width: 868px) {

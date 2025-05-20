@@ -1,3 +1,17 @@
+//из style.scss
+
+$bg: hsl(40, 50%, 92%);
+$bg-a: hsla(0, 0%, 0%, 0);
+$fg: hsl(45, 90%, 55%);
+$fg-hover: hsl(45, 85%, 45%);
+$tc: hsl(25, 50%, 20%);
+$tc-cont: hsl(0, 0%, 100%);
+$tc-light: hsl(30, 40%, 35%);
+$bg-main: hsl(35, 60%, 90%);
+$tc-span: hsl(170, 60%, 40%);
+$banner-cf: rgba(0,0,0,0.1);
+//
+
 $sm: 868px;
 $scaling-factor: 1.2;
 $base-max-width: 1000px;    //дисплей с шириной 868 не успевает достигать размера 1000 в ширину чтоб увеличиться по этому это типо костыль
@@ -13,28 +27,60 @@ $base-font-size-text: 18px;
     padding: $base-padding;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
-    
+
+    h5, .ova-tour-review, review_form_wrapper {           //Временный костыль убирания лишнего
+        display: none;
+        margin: 0; // Убираем отступы
+        padding: 0; // Убираем внутренние отступы
+        height: 0; // Сбрасываем высоту
+        overflow: hidden; // Убеждаемся, что ничего не торчит
+    }
+    .content-product-item {
+        margin: 0; // Убираем отступы
+        padding: 0; // Убираем внутренние отступы
+        height: auto; // Сбрасываем высоту
+        &.ova-tour-review {
+            display: none; // Уже скрыто, но для ясности
+            margin: 0;
+            padding: 0;
+            height: 0;
+            overflow: hidden;
+        }
+        &.tour-included-excluded-wrapper {
+            margin: 0; // Убираем отступы для блока "Включено/Исключено"
+            padding: 0;
+            .tour-included-excluded-content {
+                display: none; // Скрываем пустой вложенный div
+            }
+        }
+    }
+
     h2 {
+        font-size: $base-font-size-h2;
         color: #2c3e50;
         border-bottom: 2px solid #3498db;
         padding-bottom: 10px;
         margin-bottom: 20px;
     }
-    h3 {
+    h3, h4 {                                //4 переопределён
+        font-size: $base-font-size-h3;
         color: #34495e;
         margin-top: 20px;
         margin-bottom: 10px;
     }
     p {
+        font-size: $base-font-size-text;
         margin: 10px 0;
         color: #333;
     }
     ul {
+        font-size: $base-font-size-text; //я не знаю что делаю
         list-style-type: none;
         padding: 0;
         margin: 10px 0;
     }
     li {
+        font-size: $base-font-size-text;
         padding: 8px 0;
         position: relative;
         padding-left: 30px;
