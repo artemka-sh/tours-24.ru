@@ -103,6 +103,57 @@
   color: #c0392b;
 }
 
+.swiper-cross {
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  top: 5%;
+  right: 10%;
+  cursor: pointer;
+  z-index: 2;
+}
+
+.swiper-cross::before {
+  position: absolute;
+  content: "✖";
+  color: #c0392b;
+}
+
+.swiper-wrapper {
+  padding: 0 50px;
+  display: grid;
+  box-sizing: border-box;
+  grid-gap: 20px;
+}
+
+.swiper-wrapper_flex {
+  display: flex;
+  padding: 0;
+  grid-gap: 0;
+}
+
+.swiper-slide {
+  cursor: pointer;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.swiper-wrapper_flex > .swiper-slide {
+  cursor: initial;
+}
+
+.swiper-slide:nth-child(3n+1) {
+  grid-column: 1;
+}
+
+.swiper-slide:nth-child(3n+2) {
+  grid-column: 2;
+}
+
+.swiper-slide:nth-child(3n+3) {
+  grid-column: 3;
+}
+
 @media (min-width: 868px) {
   .ova-single-product-summary-left {
     max-width: 1200px;
