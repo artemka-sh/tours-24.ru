@@ -360,7 +360,7 @@ li {
   transform: rotate(-405deg);
 }
 
-.banner, .tour-banner {
+.banner {
   position: relative;
   background: linear-gradient(to bottom, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("https://media.zenfs.com/en-US/homerun/travel.travelleisure.com/d27c5b1770825da5229c837721714386?auto=format&fit=crop&w=1242&h=776&q=80");
   background-position: center-20px;
@@ -372,13 +372,13 @@ li {
   align-items: center;
   padding: 1rem 5rem 1rem 2rem;
 }
-.banner-text, .tour-banner-text {
+.banner-text {
   width: 100%;
   margin: 0 auto;
   text-align: left;
   line-height: 1.5;
 }
-.banner-text h1, .tour-banner-text h1, .banner-text h2, .tour-banner-text h2 {
+.banner-text h1, .banner-text h2 {
   font-size: 8vh;
   color: hsl(0, 0%, 100%);
   margin-bottom: 2rem;
@@ -387,14 +387,14 @@ li {
   line-height: 1.3;
   font-family: "Poppins", sans-serif;
 }
-.banner-text h1 span, .tour-banner-text h1 span, .banner-text h2 span, .tour-banner-text h2 span {
+.banner-text h1 span, .banner-text h2 span {
   color: hsl(45, 90%, 55%);
 }
-.banner-text h2, .tour-banner-text h2 {
+.banner-text h2 {
   font-size: 4vh;
   margin-bottom: 1rem;
 }
-.banner-text p, .tour-banner-text p {
+.banner-text p {
   color: rgb(0, 0, 0);
   font-size: 1.8rem;
   letter-spacing: 1px;
@@ -406,12 +406,12 @@ li {
   box-shadow: 0 4px 32px 0.25px rgba(0, 0, 0, 0.3);
   max-width: 450px;
 }
-.banner-text .btn-get, .tour-banner-text .btn-get {
+.banner-text .btn-get {
   display: inline-block;
   padding: 1rem 4rem;
   transition: all 500ms ease-in-out;
 }
-.banner-text .btn-get:hover, .tour-banner-text .btn-get:hover {
+.banner-text .btn-get:hover {
   background-color: hsl(45, 85%, 45%);
 }
 
@@ -445,6 +445,35 @@ li {
   width: 100%;
   height: 100%;
   object-fit: cover;
+}
+
+.about-tour {
+  margin: 0rem auto;
+  padding: 10rem 2rem 2rem 2rem;
+}
+.about-tour .main-container {
+  display: grid;
+  grid-template-columns: 1fr;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: rgba(173, 0, 0, 0.25) 0px 0.0625em 0.0625em, rgba(0, 0, 0, 0.25) 0px 0.125em 0.5em, rgba(255, 255, 255, 0.1) 0px 0px 0px 1px inset;
+}
+.about-tour .main-container video {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.about-tour .main-container p {
+  color: rgb(0, 0, 0);
+  font-size: 1.8rem;
+  letter-spacing: 1px;
+  margin-bottom: 3rem;
+  padding-right: 2rem;
+  background: rgba(255, 255, 255, 0.493);
+  padding: 15px 10px;
+  border-radius: 15px;
+  box-shadow: 0 4px 32px 0.25px rgba(0, 0, 0, 0.3);
+  max-width: 450px;
 }
 
 .tour {
@@ -881,78 +910,6 @@ footer .credit span {
   color: hsl(30, 40%, 35%);
 }
 
-.tour-banner {
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-}
-.tour-banner-text h1, .tour-banner-text h2 {
-  font-size: 7vh;
-}
-.tour-banner-text p {
-  background: rgba(255, 255, 255, 0.7);
-  max-width: 500px;
-}
-
-.tour-description,
-.itinerary,
-.inclusions,
-.pricing,
-.reviews,
-.what-to-bring,
-.booking {
-  padding: 4rem 2rem;
-  max-width: 1000px;
-  margin: 0 auto;
-}
-
-.tour-description p {
-  font-size: 1.4rem;
-  line-height: 1.7;
-  color: hsl(25, 50%, 20%);
-}
-
-.itinerary ul li,
-.inclusions ul li,
-.what-to-bring ul li {
-  font-size: 1.4rem;
-  line-height: 1.7;
-  color: hsl(25, 50%, 20%);
-  margin-bottom: 1rem;
-}
-
-.pricing table {
-  width: 100%;
-  border-collapse: collapse;
-  margin: 2rem 0;
-}
-.pricing table th, .pricing table td {
-  border: 1px solid hsl(45, 90%, 55%);
-  padding: 1rem;
-  text-align: left;
-}
-.pricing table th {
-  background-color: hsl(45, 90%, 55%);
-  color: hsl(35, 60%, 90%);
-}
-
-.reviews .review {
-  background-color: hsl(35, 60%, 95%);
-  padding: 2rem;
-  border-radius: 10px;
-  margin-bottom: 2rem;
-  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.1);
-}
-.reviews .review p {
-  font-size: 1.4rem;
-  color: hsl(25, 50%, 20%);
-}
-.reviews .review p.author {
-  font-style: italic;
-  text-align: right;
-  margin-top: 1rem;
-}
-
 @media (min-width: 868px) {
   #preloadder {
     background-size: 15%;
@@ -992,17 +949,17 @@ footer .credit span {
   .primary-header .right-part .ham-menu {
     display: none;
   }
-  .banner-text, .tour-banner-text {
+  .banner-text {
     text-align: center;
     width: 65%;
   }
-  .banner-text h1, .tour-banner-text h1 {
+  .banner-text h1 {
     font-size: 12rem;
   }
-  .banner-text h2, .tour-banner-text h2 {
+  .banner-text h2 {
     font-size: 6rem;
   }
-  .banner-text p, .tour-banner-text p {
+  .banner-text p {
     margin: 0 auto 20px auto;
   }
   .about .main-text p {
