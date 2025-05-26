@@ -49,6 +49,7 @@ function setSwiperGrid(images) {
   images.forEach((image, index) => {
     image.style.textAlign = "center"
     image.style.backgroundImage = `url("${window.location.pathname}/images/${links[index]}")`
+    image.style.backgroundSize = "cover"
   });
   swiper.style.height = Math.ceil(images.length / 3) * 200 + "px"
   swiper.style.margin = "40px 0"

@@ -7,32 +7,6 @@
   border-radius: 8px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
-.ova-single-product-summary-left h5, .ova-single-product-summary-left .ova-tour-review, .ova-single-product-summary-left review_form_wrapper {
-  display: none;
-  margin: 0;
-  padding: 0;
-  height: 0;
-  overflow: hidden;
-}
-.ova-single-product-summary-left .content-product-item {
-  margin: 0;
-  padding: 0;
-  height: auto;
-}
-.ova-single-product-summary-left .content-product-item.ova-tour-review {
-  display: none;
-  margin: 0;
-  padding: 0;
-  height: 0;
-  overflow: hidden;
-}
-.ova-single-product-summary-left .content-product-item.tour-included-excluded-wrapper {
-  margin: 0;
-  padding: 0;
-}
-.ova-single-product-summary-left .content-product-item.tour-included-excluded-wrapper .tour-included-excluded-content {
-  display: none;
-}
 .ova-single-product-summary-left h2 {
   font-size: 24px;
   color: #2c3e50;
@@ -42,6 +16,12 @@
 }
 .ova-single-product-summary-left h3, .ova-single-product-summary-left h4 {
   font-size: 22px;
+  color: #34495e;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+.ova-single-product-summary-left h5, .ova-single-product-summary-left h6 {
+  font-size: 18px;
   color: #34495e;
   margin-top: 20px;
   margin-bottom: 10px;
@@ -75,12 +55,6 @@
   color: #3498db;
   font-weight: bold;
 }
-.ova-single-product-summary-left div > div:first-child {
-  position: relative;
-  overflow: hidden;
-  height: 400px;
-  margin-bottom: 20px;
-}
 .ova-single-product-summary-left img {
   width: 100%;
   height: 100%;
@@ -108,15 +82,17 @@
   height: 50px;
   position: absolute;
   top: 5%;
-  right: 10%;
+  right: 5%;
   cursor: pointer;
   z-index: 2;
 }
 
 .swiper-cross::before {
   position: absolute;
+  display: inline-block;
   content: "✖";
   color: #c0392b;
+  font-size: 42px;
 }
 
 .swiper-wrapper {

@@ -18,6 +18,7 @@ $base-max-width: 1000px;    //дисплей с шириной 868 не успе
 $base-padding: 20px;
 $base-font-size-h2: 24px;
 $base-font-size-h3: 22px;
+$base-font-size-h4: 18px;
 $base-font-size-text: 18px;
 
 .ova-single-product-summary-left {
@@ -27,33 +28,6 @@ $base-font-size-text: 18px;
     padding: $base-padding;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
-
-    h5, .ova-tour-review, review_form_wrapper {           //Временный костыль убирания лишнего
-        display: none;
-        margin: 0; // Убираем отступы
-        padding: 0; // Убираем внутренние отступы
-        height: 0; // Сбрасываем высоту
-        overflow: hidden; // Убеждаемся, что ничего не торчит
-    }
-    .content-product-item {
-        margin: 0; // Убираем отступы
-        padding: 0; // Убираем внутренние отступы
-        height: auto; // Сбрасываем высоту
-        &.ova-tour-review {
-            display: none; // Уже скрыто, но для ясности
-            margin: 0;
-            padding: 0;
-            height: 0;
-            overflow: hidden;
-        }
-        &.tour-included-excluded-wrapper {
-            margin: 0; // Убираем отступы для блока "Включено/Исключено"
-            padding: 0;
-            .tour-included-excluded-content {
-                display: none; // Скрываем пустой вложенный div
-            }
-        }
-    }
 
     h2 {
         font-size: $base-font-size-h2;
@@ -68,6 +42,14 @@ $base-font-size-text: 18px;
         margin-top: 20px;
         margin-bottom: 10px;
     }
+
+    h5, h6 {
+        font-size: $base-font-size-h4;
+        color: #34495e;
+        margin-top: 20px;
+        margin-bottom: 10px;
+    }
+
     p {
         font-size: $base-font-size-text;
         margin: 10px 0;
@@ -96,12 +78,6 @@ $base-font-size-text: 18px;
     span {
         color: #3498db;
         font-weight: bold;
-    }
-    div > div:first-child {
-        position: relative;
-        overflow: hidden;
-        height: 400px;
-        margin-bottom: 20px;
     }
     img {
         width: 100%;
