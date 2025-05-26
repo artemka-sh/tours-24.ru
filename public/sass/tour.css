@@ -9,20 +9,20 @@
 }
 .ova-single-product-summary-left h2 {
   font-size: 24px;
-  color: #2c3e50;
-  border-bottom: 2px solid #3498db;
+  color: hsl(25, 50%, 20%);
+  border-bottom: 2px solid hsl(45, 90%, 55%);
   padding-bottom: 10px;
   margin-bottom: 20px;
 }
 .ova-single-product-summary-left h3, .ova-single-product-summary-left h4 {
   font-size: 22px;
-  color: #34495e;
+  color: hsl(25, 50%, 20%);
   margin-top: 20px;
   margin-bottom: 10px;
 }
 .ova-single-product-summary-left h5, .ova-single-product-summary-left h6 {
   font-size: 18px;
-  color: #34495e;
+  color: hsl(25, 50%, 20%);
   margin-top: 20px;
   margin-bottom: 10px;
 }
@@ -48,11 +48,11 @@
   content: "•";
   position: absolute;
   left: 0;
-  color: #3498db;
+  color: hsl(45, 90%, 55%);
   font-size: 1.2em;
 }
 .ova-single-product-summary-left span {
-  color: #3498db;
+  color: hsl(45, 90%, 55%);
   font-weight: bold;
 }
 .ova-single-product-summary-left img {
@@ -82,17 +82,15 @@
   height: 50px;
   position: absolute;
   top: 5%;
-  right: 5%;
+  right: 10%;
   cursor: pointer;
   z-index: 2;
 }
 
 .swiper-cross::before {
   position: absolute;
-  display: inline-block;
   content: "✖";
   color: #c0392b;
-  font-size: 42px;
 }
 
 .swiper-wrapper {

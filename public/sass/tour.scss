@@ -31,21 +31,21 @@ $base-font-size-text: 18px;
 
     h2 {
         font-size: $base-font-size-h2;
-        color: #2c3e50;
-        border-bottom: 2px solid #3498db;
+        color: $tc;
+        border-bottom: 2px solid $fg;
         padding-bottom: 10px;
         margin-bottom: 20px;
     }
     h3, h4 {                                //4 переопределён
         font-size: $base-font-size-h3;
-        color: #34495e;
+        color: $tc;
         margin-top: 20px;
         margin-bottom: 10px;
     }
 
     h5, h6 {
         font-size: $base-font-size-h4;
-        color: #34495e;
+        color: $tc;
         margin-top: 20px;
         margin-bottom: 10px;
     }
@@ -72,11 +72,11 @@ $base-font-size-text: 18px;
         content: "•";
         position: absolute;
         left: 0;
-        color: #3498db;
+        color: $fg;
         font-size: 1.2em;
     }
     span {
-        color: #3498db;
+        color: $fg;
         font-weight: bold;
     }
     img {
