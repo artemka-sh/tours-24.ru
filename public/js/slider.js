@@ -1,19 +1,28 @@
 var swiperUI = null;
 var links = [];
 
+function getImagePerRow() {
+  return document.body.clientWidth > 1615 ? 5 : (
+    document.body.clientWidth > 1015 ? 4 : (
+      document.body.clientWidth > 615 ? 3 : (
+        document.body.clientWidth > 415 ? 2 : 1
+      )
+    )
+  )
+}
+
 function createSwiperUI(slideTo = 0) {
   if (swiperUI !== null) return;
+  const image_per_row = getImagePerRow()
 
   const cross = document.createElement('span')
+  const swiper = document.querySelector(".swiper")
+  const swiperBlock = document.querySelector(".swiper-wrapper")
   cross.classList.add("swiper-cross")
   cross.addEventListener("click", destroySwiperUI)
 
-  document.querySelector(
-    ".swiper-wrapper"
-  ).classList.add("swiper-wrapper_flex")
-  document.querySelector(
-    ".swiper"
-  ).appendChild(cross)
+  swiperBlock.classList.add("swiper-wrapper_flex")
+  swiper.appendChild(cross)
 
   swiperUI = new Swiper('.swiper', {
       // Optional parameters
@@ -31,6 +40,7 @@ function createSwiperUI(slideTo = 0) {
       },
   });
   swiperUI.slideTo(slideTo);
+  swiper.style.height = image_per_row * 200 + "px"
 }
 
 function destroySwiperUI(event) {
@@ -46,16 +56,13 @@ function destroySwiperUI(event) {
 
 function setSwiperGrid(images) {
   const swiper = document.querySelector(".swiper")
-  const image_per_row = document.body.clientWidth > 1015 ? 4 : (
-    document.body.clientWidth > 615 ? 3 : (
-      document.body.clientWidth > 415 ? 2 : 1
-    )
-  )
+  const image_per_row = getImagePerRow()
+  
   images.forEach((image, index) => {
     console.log(image_per_row, index)
     image.style.textAlign = "center"
     image.style.backgroundImage = `url("${window.location.pathname}/images/${links[index]}")`
-    image.style.backgroundSize = "cover"
+    image.style.backgroundSize = "contain"
     image.style.gridColumn = `${index % image_per_row + 1}`
   });
   swiper.style.height = Math.ceil(images.length / image_per_row) * 200 + "px"
