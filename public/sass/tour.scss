@@ -147,18 +147,6 @@ $base-font-size-text: 18px;
   cursor: initial;
 }
 
-.swiper-slide:nth-child(3n+1) {
-  grid-column: 1;
-}
-
-.swiper-slide:nth-child(3n+2) {
-  grid-column: 2;
-}
-
-.swiper-slide:nth-child(3n+3) {
-  grid-column: 3;
-}
-
 @media (min-width: $sm) {
     .ova-single-product-summary-left {
         max-width: $base-max-width * $scaling-factor; // 960px

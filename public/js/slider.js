@@ -46,12 +46,19 @@ function destroySwiperUI(event) {
 
 function setSwiperGrid(images) {
   const swiper = document.querySelector(".swiper")
+  const image_per_row = document.body.clientWidth > 1015 ? 4 : (
+    document.body.clientWidth > 615 ? 3 : (
+      document.body.clientWidth > 415 ? 2 : 1
+    )
+  )
   images.forEach((image, index) => {
+    console.log(image_per_row, index)
     image.style.textAlign = "center"
     image.style.backgroundImage = `url("${window.location.pathname}/images/${links[index]}")`
     image.style.backgroundSize = "cover"
+    image.style.gridColumn = `${index % image_per_row + 1}`
   });
-  swiper.style.height = Math.ceil(images.length / 3) * 200 + "px"
+  swiper.style.height = Math.ceil(images.length / image_per_row) * 200 + "px"
   swiper.style.margin = "40px 0"
 }
 
