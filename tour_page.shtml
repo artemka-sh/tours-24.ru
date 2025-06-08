@@ -8,12 +8,9 @@
     <link rel="shortcut icon" href="/public/images/logo/sharm-logo.png" type="image/x-icon">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link rel="stylesheet"
-    href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css">
     <link
         href="https://fonts.googleapis.com/css2?family=Dosis:wght@800&family=Poppins:wght@400;500;600;700&display=swap"
         rel="stylesheet">
-    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
     <!-- css  -->
     <link rel="stylesheet" href="/public/sass/style.css">
     <link rel="stylesheet" href="/public/sass/tour.css">
@@ -22,19 +19,20 @@
     <!-- header  -->
     
     <!--#include file="header.html"-->
-
-    <div class="swiper" style="margin: 40px 0;">
-        <!-- Additional required wrapper -->
-        <div id="gallery" class="swiper-wrapper">
-            <!-- Slides -->
+    <div class="slider-wrapper">
+        <div class="slider">
+            <div class="main-slide">
+                <div class="main-slide-track"></div>
+            </div>
+            <div class="thumbs-wrapper">
+                <div class="thumbnails thumbs-track"></div>
+            </div>
+          
+            <button class="nav left">&#10094;</button>
+            <button class="nav right">&#10095;</button>
         </div>
-        <!-- If we need pagination -->
-        <div class="swiper-pagination"></div>
-
-        <!-- If we need scrollbar -->
-        <div class="swiper-scrollbar"></div>
     </div>
-
+      
     <!--#include file="$page_path/page_ru.html"-->
     
     <!--#include file="contact.html"-->

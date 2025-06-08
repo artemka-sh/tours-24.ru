@@ -1,91 +1,68 @@
-var swiperUI = null;
-var links = [];
+const mainImages = [];
+const thumbnails = [];
+const dots = [];
+var currentIndex = 0;
 
-function getImagePerRow() {
-  return document.body.clientWidth > 1615 ? 5 : (
-    document.body.clientWidth > 1015 ? 4 : (
-      document.body.clientWidth > 615 ? 3 : (
-        document.body.clientWidth > 415 ? 2 : 1
-      )
-    )
-  )
-}
+fetch(`${window.location.pathname}/images/`).then(r => r.text()).then(html => {
+  const parser = new DOMParser();
+  const doc = parser.parseFromString(html, 'text/html');
+  const links = [...doc.querySelectorAll('a')].map(
+    a => a.getAttribute('href')
+  ).filter(href => href.match(/\.(jpg|png|webp|jpeg|gif)$/i));
 
-function createSwiperUI(slideTo = 0) {
-  if (swiperUI !== null) return;
-  const image_per_row = getImagePerRow()
+  const track = document.querySelector('.main-slide-track');
+  const thumbsTrack = document.querySelector('.thumbs-track');
 
-  const cross = document.createElement('span')
-  const swiper = document.querySelector(".swiper")
-  const swiperBlock = document.querySelector(".swiper-wrapper")
-  cross.classList.add("swiper-cross")
-  cross.addEventListener("click", destroySwiperUI)
+  links.forEach((link, index) => {
+    const img = document.createElement('img');
+    img.src = `${window.location.pathname}/images/${link}`;
+    track.appendChild(img);
+    mainImages.push(img);
 
-  swiperBlock.classList.add("swiper-wrapper_flex")
-  swiper.appendChild(cross)
-
-  swiperUI = new Swiper('.swiper', {
-      // Optional parameters
-      direction: 'horizontal',
-      loop: true,
-
-      // If we need pagination
-      pagination: {
-          el: '.swiper-pagination',
-      },
-
-      // And if we need scrollbar
-      scrollbar: {
-          el: '.swiper-scrollbar',
-      },
+    const thumb = img.cloneNode();
+    thumb.setAttribute('data-index', index);
+    if (index === 0) thumb.classList.add('active');
+    thumbsTrack.appendChild(thumb);
+    thumbnails.push(thumb);
   });
-  swiperUI.slideTo(slideTo);
-  swiper.style.height = image_per_row * 200 + "px"
-}
 
-function destroySwiperUI(event) {
-  if (swiperUI === null) return;
-  document.querySelector(
-    ".swiper-wrapper"
-  ).classList.remove("swiper-wrapper_flex")
-  event.target.remove();
-  swiperUI.destroy();
-  swiperUI = null;
-  setSwiperGrid(document.querySelectorAll(".swiper-slide"))
-}
-
-function setSwiperGrid(images) {
-  const swiper = document.querySelector(".swiper")
-  const image_per_row = getImagePerRow()
+  function updateSlider(index) {
+    const slideWidth = 100;
+    track.style.transform = `translateX(-${index * slideWidth}%)`;
   
-  images.forEach((image, index) => {
-    console.log(image_per_row, index)
-    image.style.textAlign = "center"
-    image.style.backgroundImage = `url("${window.location.pathname}/images/${links[index]}")`
-    image.style.backgroundSize = "contain"
-    image.style.gridColumn = `${index % image_per_row + 1}`
-  });
-  swiper.style.height = Math.ceil(images.length / image_per_row) * 200 + "px"
-  swiper.style.margin = "40px 0"
-}
+    thumbnails.forEach((thumb, i) => {
+      thumb.classList.toggle('active', i === index);
+    });
+  
+    // === Новая логика автоцентрирования превью ===
+    const thumbWidth = 25; // ширина превью + gap (100px + 10px)
+    const thumbsPerView = 4;
+  
+    // Центрировать так, чтобы выбранный был посередине окна
+    let scrollIndex = index - Math.floor(thumbsPerView / 2);
+    scrollIndex = Math.max(0, scrollIndex);
+    const maxScroll = thumbnails.length - thumbsPerView;
+    scrollIndex = Math.min(scrollIndex, maxScroll);
 
-window.onload = () => {
-    fetch(`${window.location.pathname}/images/`).then(r => r.text()).then(html => {
-      const parser = new DOMParser();
-      const doc = parser.parseFromString(html, 'text/html');
-      links = [...doc.querySelectorAll('a')].map(
-        a => a.getAttribute('href')).filter(href => href.match(/\.(jpg|png|webp|jpeg|gif)$/i)
-      );
-      const gallery = document.getElementById('gallery');
-      const images = links.map((_, index) => {
-        const block = document.createElement('div');
-        block.classList.add("swiper-slide")
-        block.addEventListener("click", () => {
-          createSwiperUI(index)
-        })
-        gallery.appendChild(block);
-        return block;
-      });
-      setSwiperGrid(images)
+    thumbsTrack.style.transform = `translateX(calc(${scrollIndex * -thumbWidth}% + ${scrollIndex > 0 ? 10 : 0}px))`
+    currentIndex = index;
+  }
+
+  // Слайдер: кнопки
+  document.querySelector('.nav.left').addEventListener('click', () => {
+    const index = (currentIndex - 1 + mainImages.length) % mainImages.length;
+    updateSlider(index);
   });
-}
+
+  document.querySelector('.nav.right').addEventListener('click', () => {
+    const index = (currentIndex + 1) % mainImages.length;
+    updateSlider(index);
+  });
+
+  // Клик по миниатюре
+  thumbnails.forEach(thumb => {
+    thumb.addEventListener('click', () => {
+      updateSlider(+thumb.dataset.index);
+    });
+  });
+});

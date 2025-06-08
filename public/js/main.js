@@ -1,4 +1,6 @@
 const tours = [
+    { path: 'white-island-luxury-boat-2', title: 'Роскошная прогулка на лодке к Белому острову', price: '€25 <del>€40</del>', duration: '8 Часов', image_h2: 'Белый остров', image_p: 'Лодка' },
+    { path: 'super-safari-atv-camel-show', title: 'Супер сафари: ATV, верблюды и шоу', price: '€35 <del>€45</del>', duration: '5 Часов', image_h2: 'Сафари', image_p: 'Культура' },
     { path: 'albatros-aqua-park-day-use', title: 'Дневное посещение аквапарка Альбатрос', price: '€20 <del>€30</del>', duration: '4 Часа', image_h2: 'Аквапарк', image_p: 'Водные горки' },
     { path: 'atv-desert-safari', title: 'Сафари по пустыне на квадроциклах ATV', price: '€15 <del>€25</del>', duration: '3 Часа', image_h2: 'Пустыня', image_p: 'ATV Сафари' },
     { path: 'buggy-safari', title: 'Сафари на багги', price: '€25 <del>€35</del>', duration: '3 Часа', image_h2: 'Пустыня', image_p: 'Багги' },
@@ -22,10 +24,8 @@ const tours = [
     { path: 'scuba-diving', title: 'Подводное плавание с аквалангом', price: '€50 <del>€60</del>', duration: '4 Часа', image_h2: 'Море', image_p: 'Дайвинг' },
     { path: 'semi-submarine-seascope', title: 'Полуподводная лодка Seascope', price: '€25 <del>€35</del>', duration: '2 Часа', image_h2: 'Море', image_p: 'Кораллы' },
     { path: 'sina-dream-yacht', title: 'Яхта Sina Dream', price: '€60 <del>€80</del>', duration: '8 Часов', image_h2: 'Яхта', image_p: 'Море' },
-    { path: 'super-safari-atv-camel-show', title: 'Супер сафари: ATV, верблюды и шоу', price: '€35 <del>€45</del>', duration: '5 Часов', image_h2: 'Сафари', image_p: 'Культура' },
     { path: 'tiran-island-snorkeling', title: 'Сноркелинг на острове Тиран', price: '€30 <del>€40</del>', duration: '6 Часов', image_h2: 'Тиран', image_p: 'Сноркелинг' },
-    { path: 'turkish-bath-hammam-2', title: 'Турецкая баня Хаммам', price: '€20 <del>€30</del>', duration: '2 Часа', image_h2: 'Хаммам', image_p: 'Релакс' },
-    { path: 'white-island-luxury-boat-2', title: 'Роскошная прогулка на лодке к Белому острову', price: '€25 <del>€40</del>', duration: '8 Часов', image_h2: 'Белый остров', image_p: 'Лодка' }
+    { path: 'turkish-bath-hammam-2', title: 'Турецкая баня Хаммам', price: '€20 <del>€30</del>', duration: '2 Часа', image_h2: 'Хаммам', image_p: 'Релакс' }    
 ];
 
 
