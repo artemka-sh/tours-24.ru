@@ -910,6 +910,54 @@ footer .credit span {
   color: hsl(30, 40%, 35%);
 }
 
+.reviews-plaque {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem;
+  background-color: hsl(35, 60%, 90%);
+  margin: 2rem auto;
+  max-width: 800px;
+}
+.reviews-plaque .review-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: hsl(0, 0%, 100%);
+  border: 2px solid hsl(0, 0%, 100%);
+  border-radius: 12px;
+  padding: 1.5rem 2.5rem;
+  margin: 5px;
+  min-height: 150px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.reviews-plaque .review-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+}
+.reviews-plaque .review-card a {
+  text-decoration: none;
+  color: hsl(25, 50%, 20%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.reviews-plaque .review-card .google-logo {
+  width: 80px;
+  height: auto;
+  margin-bottom: 1rem;
+}
+.reviews-plaque .review-card .review-count {
+  font-size: 1.6rem;
+  font-weight: 500;
+  color: hsl(25, 50%, 20%);
+}
+.reviews-plaque .review-card .review-stars {
+  font-size: 1.8rem;
+  color: hsl(45, 90%, 55%);
+  margin-top: 0.5rem;
+}
+
 @media (min-width: 868px) {
   #preloadder {
     background-size: 15%;

@@ -1121,6 +1121,62 @@ footer{
 }
 
 
+.reviews-plaque {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+    background-color: $bg-main; // Используем основной фон
+    margin: 2rem auto; // Центрирование
+    max-width: 800px; // Ограничение ширины
+  
+    .review-card {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      background-color: $tc-cont; // Белый фон карточки
+      border: 2px solid $tc-cont; // Белая обводка
+      border-radius: 12px; // Закругленные углы
+      padding: 1.5rem 2.5rem; // Внутренние отступы
+      margin: 5px;
+      min-height: 150px;
+      transition: transform 0.3s ease, box-shadow 0.3s ease; // Плавные эффекты
+  
+      &:hover {
+        transform: translateY(-5px); // Подъем при наведении
+        box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15); // Усиленная тень
+      }
+  
+      a {
+        text-decoration: none; // Убираем подчеркивание
+        color: $tc; // Цвет текста
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+  
+      .google-logo  {
+        width: 80px; // Размер логотипа
+        height: auto;
+        margin-bottom: 1rem; // Отступ снизу
+      }
+  
+      .review-count {
+        font-size: 1.6rem;
+        font-weight: 500;
+        color: $tc; // Цвет текста
+      }
+  
+      .review-stars {
+        font-size: 1.8rem;
+        color: $fg; // Цвет звезд
+        margin-top: 0.5rem;
+      }
+    }
+  }
+
+
+
 // media small 
 
 @media (min-width:$sm){
