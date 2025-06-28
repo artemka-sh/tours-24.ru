@@ -1,10 +1,10 @@
 const tours = [
-    { path: 'white-island-luxury-boat-2', title: 'Роскошная прогулка на лодке к Белому острову', price: '€25 <del>€40</del>', duration: '8 Часов', image_h2: 'Белый остров', image_p: 'Лодка' },
-    { path: 'super-safari-atv-camel-show', title: 'Супер сафари: ATV, верблюды и шоу', price: '€35 <del>€45</del>', duration: '5 Часов', image_h2: 'Сафари', image_p: 'Культура' },
+    { path: 'white-island-luxury-boat-2', title: 'Белый остров. Заповедник Рас-Мохаммед на яхте', price: '€25 <del>€40</del>', duration: '8 Часов', image_h2: 'Белый остров', image_p: 'Лодка' },
+    { path: 'super-safari-atv-camel-show', title: 'Катание на квадроциклах и на верблюде, остановки с бидуинами', price: '€35 <del>€45</del>', duration: '5 Часов', image_h2: 'Сафари', image_p: 'Культура' },
+    { path: 'cairo-2day-bus-from-sharm', title: 'Каир на автобусе 2 день из Шарм эль шейха', price: '€100 <del>€120</del>', duration: '2 Дня', image_h2: 'Каир', image_p: 'Пирамиды' },
     { path: 'albatros-aqua-park-day-use', title: 'Дневное посещение аквапарка Альбатрос', price: '€20 <del>€30</del>', duration: '4 Часа', image_h2: 'Аквапарк', image_p: 'Водные горки' },
     { path: 'atv-desert-safari', title: 'Сафари по пустыне на квадроциклах ATV', price: '€15 <del>€25</del>', duration: '3 Часа', image_h2: 'Пустыня', image_p: 'ATV Сафари' },
     { path: 'buggy-safari', title: 'Сафари на багги', price: '€25 <del>€35</del>', duration: '3 Часа', image_h2: 'Пустыня', image_p: 'Багги' },
-    { path: 'cairo-2day-bus-from-sharm', title: 'Каир: 2 дня на автобусе из Шарма', price: '€100 <del>€120</del>', duration: '2 Дня', image_h2: 'Каир', image_p: 'Пирамиды' },
     { path: 'cairo-alex-2day-from-sharm', title: 'Каир и Александрия: 2 дня из Шарма', price: '€120 <del>€140</del>', duration: '2 Дня', image_h2: 'Александрия', image_p: 'Город' },
     { path: 'cairo-bus-pyramids-museum-day', title: 'Каир: пирамиды и музей на автобусе', price: '€80 <del>€100</del>', duration: '1 День', image_h2: 'Пирамиды', image_p: 'Музей' },
     { path: 'cairo-plane-1day-from-sharm', title: 'Каир: 1 день на самолёте из Шарма', price: '€150 <del>€180</del>', duration: '1 День', image_h2: 'Каир', image_p: 'Пирамиды' },
