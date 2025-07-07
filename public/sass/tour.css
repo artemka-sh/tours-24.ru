@@ -84,6 +84,10 @@
   font-family: sans-serif;
 }
 
+.slider_tour {
+  width: 90%;
+}
+
 .slider-wrapper {
   width: 100%;
   background-color: white;
@@ -113,13 +117,15 @@
   flex-shrink: 0;
 }
 
-.thumbs-wrapper {
+.thumbs-wrapper,
+.tours-wrapper {
   width: 75%; /* 4 превью по 100 + 10*3 */
   overflow: hidden;
   margin: 10px auto 0;
 }
 
-.thumbs-track {
+.thumbs-track,
+.tours-track {
   display: flex;
   gap: 10px;
   transition: transform 0.4s ease;
@@ -133,6 +139,16 @@
   border: 2px solid transparent;
   cursor: pointer;
   flex-shrink: 0;
+}
+
+.tour-cards {
+  width: calc(33% - 10px);
+  flex-shrink: 0;
+}
+
+.tour-cards .image-box {
+  height: auto;
+  aspect-ratio: 1.618;
 }
 
 .thumbnails img.active {

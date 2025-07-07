@@ -28,19 +28,29 @@
                 <div class="thumbnails thumbs-track"></div>
             </div>
           
-            <button class="nav left">&#10094;</button>
-            <button class="nav right">&#10095;</button>
+            <button class="nav left image">&#10094;</button>
+            <button class="nav right image">&#10095;</button>
         </div>
     </div>
       
     <!--#include file="$page_path/page_ru.html"-->
+
+    <div class="slider-wrapper">
+        <div class="slider slider_tour">
+            <div class="tours-wrapper">
+                <div class="tournails tours-track"></div>
+            </div>
+          
+            <button class="nav left block">&#10094;</button>
+            <button class="nav right block">&#10095;</button>
+        </div>
+    </div>
     
     <!--#include file="contact.html"-->
 
     <!--#include file="footer.html"-->
 
     <!-- ----- -->
-    <script src="/public/js/main.js"></script>
-    <script src="/public/js/slider.js"></script>
+    <script type="module" src="/public/js/slider.js"></script>
 </body>
 </html>

@@ -1,6 +1,10 @@
+import {tours} from './tours.js'
+
+
 const mainImages = [];
 const thumbnails = [];
-const dots = [];
+const tournails = [];
+var tourIndex = 0;
 var currentIndex = 0;
 
 fetch(`${window.location.pathname}/images/`).then(r => r.text()).then(html => {
@@ -49,12 +53,12 @@ fetch(`${window.location.pathname}/images/`).then(r => r.text()).then(html => {
   }
 
   // Слайдер: кнопки
-  document.querySelector('.nav.left').addEventListener('click', () => {
+  document.querySelector('.nav.left.image').addEventListener('click', () => {
     const index = (currentIndex - 1 + mainImages.length) % mainImages.length;
     updateSlider(index);
   });
 
-  document.querySelector('.nav.right').addEventListener('click', () => {
+  document.querySelector('.nav.right.image').addEventListener('click', () => {
     const index = (currentIndex + 1) % mainImages.length;
     updateSlider(index);
   });
@@ -66,3 +70,43 @@ fetch(`${window.location.pathname}/images/`).then(r => r.text()).then(html => {
     });
   });
 });
+
+window.onload = () => {
+  const toursTrack = document.querySelector(".tours-track")
+  const toursPerView = 3;
+  const tourWidth = 33;
+
+  function updateSlider(index) {
+
+    toursTrack.style.transform = `translateX(calc(${index * -tourWidth}% + ${index > 0 ? 10 : 0}px))`
+    tourIndex = index;
+  }
+
+  for (let i = 0; i < 9; i++) {
+    let tour = tours[i];
+    toursTrack.innerHTML += `
+    <div class="tour-cards" id="${tour.path}" onclick="window.location.href = '/${tour.path}'">
+      <div class="image-box" style='z-index: 0'>
+          <img src="/${tour.path}/images/img1.webp" alt="${tour.title}">
+          
+          <div class="overlay"></div>
+          <div class="image-box-text">
+              <h2 style='color: white'>${tour.image_h2}</h2>
+              <p style='color: white'>${tour.image_p}</p>
+          </div>
+      </div>
+    </div>
+    `
+    tournails.push(document.getElementById(tour.path))
+  }
+
+  document.querySelector('.nav.left.block').addEventListener('click', () => {
+    const index = (tourIndex - 1) % (tournails.length - toursPerView);
+    updateSlider(index);
+  });
+
+  document.querySelector('.nav.right.block').addEventListener('click', () => {
+    const index = (tourIndex + 1) % (tournails.length - toursPerView);
+    updateSlider(index);
+  });
+}
