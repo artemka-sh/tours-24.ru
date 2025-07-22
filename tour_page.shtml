@@ -35,7 +35,8 @@
       
     <!--#include file="$page_path/page_ru.html"-->
 
-    <div class="slider-wrapper">
+    <div class="slider-wrapper slider-wrapper__bottom">
+        <h3 class="slider__heading">Рекомендуемые туры</h3>
         <div class="slider slider_tour">
             <div class="tours-wrapper">
                 <div class="tournails tours-track"></div>

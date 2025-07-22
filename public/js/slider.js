@@ -73,10 +73,15 @@ fetch(`${window.location.pathname}/images/`).then(r => r.text()).then(html => {
 
 window.onload = () => {
   const toursTrack = document.querySelector(".tours-track")
+  const toursCount = 9;
   const toursPerView = document.body.clientWidth < 1200 ? (
     document.body.clientWidth < 800 ? 1 : 2
   ) : 3;
   const tourWidth = 100 / toursPerView;
+
+  function mod(n, m) {
+    return ((n % m) + m) % m;
+  }
 
   function updateSlider(index) {
 
@@ -84,7 +89,60 @@ window.onload = () => {
     tourIndex = index;
   }
 
-  for (let i = 0; i < 9; i++) {
+  let startX = 0;
+  let currentX = 0;
+  let isSwiping = false;
+  let initialOffset = 0;
+
+  const maxIndex = toursCount - toursPerView;
+
+  toursTrack.addEventListener('touchstart', e => {
+    startX = e.touches[0].clientX;
+    currentX = startX;
+    isSwiping = true;
+
+    // текущий смещение в %, которое мы будем дополнять
+    initialOffset = -tourIndex * tourWidth;
+    toursTrack.style.transition = 'none'; // отключаем анимацию для живого свайпа
+  }, { passive: true });
+
+  toursTrack.addEventListener('touchmove', e => {
+    if (!isSwiping) return;
+    currentX = e.touches[0].clientX;
+    const deltaX = currentX - startX;
+
+    const percentDelta = (deltaX / window.innerWidth) * 100;
+    const offset = initialOffset + percentDelta;
+
+    toursTrack.style.transform = `translateX(${offset}%)`;
+  }, { passive: true });
+
+  toursTrack.addEventListener('touchend', () => {
+    if (!isSwiping) return;
+
+    const deltaX = currentX - startX;
+    const threshold = window.innerWidth * 0.15; // свайп должен быть хотя бы на 15% ширины экрана
+
+    toursTrack.style.transition = 'transform 0.3s ease'; // вернём плавность
+
+    if (Math.abs(deltaX) > threshold) {
+      if (deltaX > 0 && tourIndex > 0) {
+        updateSlider(tourIndex - 1);
+      } else if (deltaX < 0 && tourIndex < maxIndex) {
+        updateSlider(tourIndex + 1);
+      } else {
+        updateSlider(tourIndex); // свайп за край — откат
+      }
+    } else {
+      updateSlider(tourIndex); // слишком короткий свайп — откат
+    }
+
+    isSwiping = false;
+    startX = 0;
+    currentX = 0;
+  });
+
+  for (let i = 0; i < toursCount; i++) {
     let tour = tours[i];
     toursTrack.innerHTML += `
     <div class="tour-cards" id="${tour.path}" onclick="window.location.href = '/${tour.path}'">
@@ -100,17 +158,18 @@ window.onload = () => {
     </div>
     `
     const element = document.getElementById(tour.path);
+
     element.style.width = `calc(${tourWidth}% - 10px)`
     tournails.push(element)
   }
 
   document.querySelector('.nav.left.block').addEventListener('click', () => {
-    const index = (tourIndex - 1) % (tournails.length - toursPerView);
+    const index = mod((tourIndex - 1), (tournails.length - toursPerView));
     updateSlider(index);
   });
 
   document.querySelector('.nav.right.block').addEventListener('click', () => {
-    const index = (tourIndex + 1) % (tournails.length - toursPerView);
+    const index = mod((tourIndex + 1), (tournails.length - toursPerView));
     updateSlider(index);
   });
 }
