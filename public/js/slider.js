@@ -73,8 +73,10 @@ fetch(`${window.location.pathname}/images/`).then(r => r.text()).then(html => {
 
 window.onload = () => {
   const toursTrack = document.querySelector(".tours-track")
-  const toursPerView = 3;
-  const tourWidth = 33;
+  const toursPerView = document.body.clientWidth < 1200 ? (
+    document.body.clientWidth < 800 ? 1 : 2
+  ) : 3;
+  const tourWidth = 100 / toursPerView;
 
   function updateSlider(index) {
 
@@ -97,7 +99,9 @@ window.onload = () => {
       </div>
     </div>
     `
-    tournails.push(document.getElementById(tour.path))
+    const element = document.getElementById(tour.path);
+    element.style.width = `calc(${tourWidth}% - 10px)`
+    tournails.push(element)
   }
 
   document.querySelector('.nav.left.block').addEventListener('click', () => {
