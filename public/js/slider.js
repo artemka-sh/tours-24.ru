@@ -142,8 +142,13 @@ window.onload = () => {
     currentX = 0;
   });
 
+  const recommendTours = Array.from(
+    tours.filter(item => "/" + item.path != window.location.pathname)
+  )
+
   for (let i = 0; i < toursCount; i++) {
-    let tour = tours[i];
+    let tour = recommendTours.pop(Math.floor(Math.random()*recommendTours.length));
+
     toursTrack.innerHTML += `
     <div class="tour-cards" id="${tour.path}" onclick="window.location.href = '/${tour.path}'">
       <div class="image-box" style='z-index: 0'>
@@ -153,6 +158,7 @@ window.onload = () => {
           <div class="image-box-text">
               <h2 style='color: white'>${tour.image_h2}</h2>
               <p style='color: white'>${tour.image_p}</p>
+              <span style='color: white'>${tour.price}</span>
           </div>
       </div>
     </div>

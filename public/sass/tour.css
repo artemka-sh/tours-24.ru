@@ -84,12 +84,16 @@
   font-family: sans-serif;
 }
 
+.image-box-text > * {
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.6);
+}
+
 .slider__heading {
   width: 100%;
-  text-transform: uppercase;
   margin: 20px 0;
   text-align: center;
-  font-size: 3vw;
+  font-size: 24px;
+  color: hsl(25, 50%, 20%);
 }
 
 .slider-wrapper {
@@ -176,7 +180,7 @@
   font-size: 30px;
   background: transparent;
   border: none;
-  color: orange;
+  color: hsl(45, 90%, 55%);
   cursor: pointer;
   user-select: none;
   z-index: 5;
@@ -217,7 +221,7 @@
   }
   .nav {
     background-color: rgba(255, 255, 255, 0.6);
-    box-shadow: 1px 2px 2px orange;
+    box-shadow: 1px 2px 2px hsl(45, 90%, 55%);
   }
 }
 @media (min-width: 868px) {

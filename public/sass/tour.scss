@@ -10,6 +10,7 @@ $tc-light: hsl(30, 40%, 35%);
 $bg-main: hsl(35, 60%, 90%);
 $tc-span: hsl(170, 60%, 40%);
 $banner-cf: rgba(0,0,0,0.1);
+$banner-shadow: rgba(0, 0, 0, 0.621);
 //
 
 $sm: 868px;
@@ -115,12 +116,16 @@ position: relative;
 font-family: sans-serif;
 }
 
+.image-box-text > * {
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.6);
+}
+
 .slider__heading {
     width: 100%;
-    text-transform: uppercase;
     margin: 20px 0;
     text-align: center;
-    font-size: 3vw;
+    font-size: $base-font-size-h2;
+    color: $tc;
 }
 
 .slider-wrapper {
@@ -207,7 +212,7 @@ transform: translateY(-50%);
 font-size: 30px;
 background: transparent;
 border: none;
-color: orange;
+color: $fg;
 cursor: pointer;
 user-select: none;
 z-index: 5;
@@ -244,7 +249,7 @@ z-index: 5;
 
     .nav {
         background-color: rgba(255, 255, 255, 0.6);
-        box-shadow: 1px 2px 2px orange;
+        box-shadow: 1px 2px 2px $fg;
     }
 }
   
