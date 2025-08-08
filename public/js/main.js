@@ -23,7 +23,7 @@ function renderTours(toursToRender, container) {
                         <div class="spacer"></div>
                         <a href="/${tour.path}">
                             <div class="price">
-                                <p><span>${tour.price}</span><span>Per person</span></p>
+                                <p><span>${tour.price}</span><span>За человека</span></p>
                                 <h2>${tour.duration}</h2>
                             </div>
                         </a>
