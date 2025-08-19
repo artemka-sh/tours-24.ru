@@ -147,7 +147,8 @@ window.onload = () => {
   )
 
   for (let i = 0; i < toursCount; i++) {
-    let tour = recommendTours.pop(Math.floor(Math.random()*recommendTours.length));
+    let index = Math.floor(Math.random()*recommendTours.length);
+    let tour = recommendTours.splice(index, 1)[0];
 
     toursTrack.innerHTML += `
     <div class="tour-cards" id="${tour.path}" onclick="window.location.href = '/${tour.path}'">

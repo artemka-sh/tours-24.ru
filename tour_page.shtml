@@ -52,6 +52,7 @@
     <!--#include file="footer.html"-->
 
     <!-- ----- -->
+    <script type="module" src="public/js/main.js"></script>
     <script type="module" src="/public/js/slider.js"></script>
     
     <!--#include file="chaty-widget.html"-->
