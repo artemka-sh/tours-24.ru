@@ -3,7 +3,7 @@ export const tours = [
   { path: 'cairo-bus-pyramids-museum-day', title: 'Однодневный автобусный тур в Каир: пирамиды Гизы и Египетский музей', price: '$50 <del>$70</del>', duration: '1 День', image_h2: 'Пирамиды Гизы', image_p: 'Египетский музей' },
   { path: 'super-safari-atv-camel-show', title: 'Супер‑сафари по Синайской пустыне: квадроциклы, верблюды и шоу бедуинов', price: '$30 <del>$45</del>', duration: '5 Часов', image_h2: 'Пустыня', image_p: 'Сафари' },
   { path: 'albatros-aqua-park-day-use', title: 'Аквапарк «Альбатрос» (Шарм‑эль‑Шейх): дневной билет', price: '$52 <del>$100</del>', duration: '7 Часов', image_h2: 'Аквапарк', image_p: 'Горки' },
-  { path: 'atv-desert-safari', title: 'Утреннее сафари на квадроциклах в Синайской пустыне', price: '$15 <del>$25</del>', duration: '3 Часа', image_h2: 'Пустыня', image_p: 'Квадроциклы' },
+  { path: 'atv-desert-safari', title: 'Сафари на квадроциклах в Синайской пустыне', price: '$15 <del>$25</del>', duration: '3 Часа', image_h2: 'Пустыня', image_p: 'Квадроциклы' },
   { path: 'buggy-safari', title: 'Багги‑сафари по Синайской пустыне', price: '$30 <del>$35</del>', duration: '3 Часа', image_h2: 'Пустыня', image_p: 'Багги' },
   { path: 'cairo-alex-2day-from-sharm', title: 'Каир и Александрия: 2‑дневный тур из Шарм‑эль‑Шейха', price: '$145 <del>$155</del>', duration: '2 Дня', image_h2: 'Александрия', image_p: 'Пирамиды' },
   { path: 'cairo-2day-bus-from-sharm', title: 'Двухдневный автобусный тур в Каир из Шарм‑эль‑Шейха', price: '$150 <del>$160</del>', duration: '2 Дня', image_h2: 'Каир', image_p: 'Пирамиды' },
