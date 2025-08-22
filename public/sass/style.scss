@@ -863,6 +863,99 @@ li{
 }
 // ------------
 
+// ПОЧЕМУ МЫ
+
+
+.whyour {
+    margin: 0 auto;
+    padding: 8rem 2rem 2rem;
+  
+    .main-text {
+      text-align: center;
+      margin-bottom: 2rem;
+  
+      h1 {
+        font-size: 5vh;
+        color: $fg;
+        margin-bottom: .5rem;
+        letter-spacing: 1px;
+        text-transform: uppercase;
+        line-height: 1.2;
+        font-family: $popins;
+      }
+      h2 {
+        font-size: 1.8rem;
+        color: $tc;
+        text-transform: none;
+        font-family: $popins;
+        opacity: .9;
+      }
+    }
+  
+    .why-cards {
+      display: grid;
+      grid-template-columns: repeat(5, minmax(0, 1fr));
+      gap: 1.25rem;
+      max-width: 1200px;
+      margin: 0 auto 2rem;
+  
+      @media (max-width: 1100px) { grid-template-columns: repeat(3, 1fr); }
+      @media (max-width: 720px)  { grid-template-columns: 1fr; }
+  
+      .card {
+        background: rgba(255,255,255,.85);
+        border-radius: 16px;
+        box-shadow: 0 8px 32px rgba(0,0,0,.12);
+        padding: 1.25rem 1.25rem 1.5rem;
+        text-align: left;
+        position: relative;
+        transition: transform .15s ease, box-shadow .15s ease;
+  
+        &:hover { transform: translateY(-2px); box-shadow: 0 12px 36px rgba(0,0,0,.16); }
+  
+        .ic {
+          width: 40px; height: 40px;
+          color: $tc;
+          margin-bottom: .5rem;
+          svg { width: 100%; height: 100%; display: block; }
+        }
+  
+        h3 {
+          font-size: 1.7rem;
+          color: $fg;
+          margin: .25rem 0 .5rem;
+          font-family: $popins;
+  
+          a { color: inherit; text-decoration: none; border-bottom: 2px solid rgba($tc, .3); }
+          a:hover { border-color: $tc; }
+        }
+  
+        p {
+          font-size: 1.5rem;
+          line-height: 1.55;
+          color: $tc;
+          margin: 0;
+        }
+  
+        &.highlight {
+          border: 2px solid rgba($tc, .25);
+          .ic { color: $fg; }
+          .btn.see-prices {
+            margin-top: .75rem;
+            display: inline-block;
+            font-size: .95rem;
+            padding: .6rem 1rem;
+            border-radius: 12px;
+            background: $fg;
+            color: #fff;
+            text-decoration: none;
+          }
+        }
+      }
+    }
+
+  }
+
 // contact 
 
 
