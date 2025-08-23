@@ -42,7 +42,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
     if (container) {
         container.innerHTML = '';
-        renderTours(tours.slice(0, 4), container);
+        renderTours(tours.slice(0, 7), container);
 
         if (viewMoreBtn) {
             viewMoreBtn.addEventListener('click', function() {
