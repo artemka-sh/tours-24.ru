@@ -1,9 +1,15 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ru">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Забронируйте тер прямо сейчас!</title>
+    <!-- чатгпт советует virtual вместо file для всех типов включений -->
+    <!--#include file="$page_path/meta.html"-->
+
+    <meta property="og:image" content="https://tours-24.ru<!--#echo var='page_path' -->/images/img1.webp">
+    <meta property="og:image" content="https://tours-24.ru<!--#echo var='page_path' -->/images/img2.webp">
+    <meta property="og:image" content="https://tours-24.ru<!--#echo var='page_path' -->/images/img3.webp">
+
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
