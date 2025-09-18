@@ -457,8 +457,10 @@ li{
 
 .banner{
     position: relative;
-    background: linear-gradient(to bottom, $banner-cf, rgba(0,0,0,0.1)), url('https://media.zenfs.com/en-US/homerun/travel.travelleisure.com/d27c5b1770825da5229c837721714386?auto=format&fit=crop&w=1242&h=776&q=80');    
-    background-position: center-20px;
+    //background: linear-gradient(to bottom, $banner-cf, rgba(0,0,0,0.1)), url('https://media.zenfs.com/en-US/homerun/travel.travelleisure.com/d27c5b1770825da5229c837721714386?auto=format&fit=crop&w=1242&h=776&q=80');    
+    background: linear-gradient(to bottom, $banner-cf, rgba(0,0,0,0.1)), url('../images/header_background.jpg');    
+
+    background-position: center 0px;
     background-size:cover;
     background-repeat: no-repeat;
     width: 100%;
